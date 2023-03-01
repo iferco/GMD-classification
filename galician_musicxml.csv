@@ -1,6 +1,6 @@
 ,name,location
-0,Muiñeira dos Fosados, Fosa
-1,Detrás das airas,Quindous, Cervantes, Lugo
+0,Muiñeira dos Fosados, Fosados
+1,Detrás das airas, airas
 2,Muiñeira de Quindous, Quindous
 3,Muiñeira de Quindous, Quindous
 4,Muiñeira,
@@ -13,15 +13,15 @@
 11,Palmo e meio de buxo, 
 12,O recuncho da palleta,
 13,Finiña,
-14,Finiña dos Meus Amores, 
+14,Finiña dos Meus Amores,
 15,Carballesa,
 16,Carballesa,
 17,Muiñeira de Ambite, Ambite
 18,Muiñeira de Pastoriza, Pastoriza
 19,Muiñeira de Montrove, Montrove
 20,Muiñeira de Eirís, Eirís
-21,Muiñeira dos Nenos, 
-22,Moliñeira da Rogueira,
+21,Muiñeira dos Nenos,
+22,Moliñeira da Rogueira, Rogueira
 23,Faragulliñas,
 24,Muiñeira do Lar, Lar
 25,Muiñeira do Lar, Lar
@@ -39,8 +39,8 @@
 37,Muiñeira,
 38,Muiñeira de Trasmonte, Trasmonte
 39,Muiñeira de Trasmonte, Trasmonte
-40,Muiñeira de Paulino, Paulino
-41,Muiñeira de Paulino, Paulino
+40,Muiñeira de Paulino,  
+41,Muiñeira de Paulino,  
 42,Muiñeira de Boimoirto, Boimoirto
 43,Muiñeira dos Ancares, Ancares
 44,Muiñeira de Meira, Meira
@@ -61,10 +61,10 @@
 59,Muiñeira da Dina,
 60,Mariñana,
 61,"Arrechégate, Lourenza",
-62,"¡Ei, os de Sergude!", Sergu
+62,"¡Ei, os de Sergude!",
 63,Ai Rosiña,
 64,Na freixa,
-65,Primeira de Laura, Laura
+65,Primeira de Laura,
 66,Muiñeira de Corme, Corme
 67,Muiñeira de Corme, Corme
 68,Muiñeira de Santiago de Miraz, Santiago 
@@ -91,7 +91,7 @@
 89,Muiñeira de Santos, Santos
 90,Montañesa de Lugo, Lugo
 91,Muiñeira Montañesa,
-92,Muiñeira de San Román de Cervantes, San Román 
+92,Muiñeira de San Román de Cervantes, San Román de Cervantes 
 93,Muiñeira,
 94,"Baila, nena",
 95,Muiñeira,
@@ -104,15 +104,15 @@
 102,Ribeirana,
 103,Carballesa,
 104,Muiñeira,
-105,Muiñeira del Gallo,l Gallo
-106,Muiñeira de Casadelas, Casa
+105,Muiñeira del Gallo,
+106,Muiñeira de Casadelas, Casadelas
 107,Muiñeira de Calvos, Calvos
 108,Muiñeira de Trarigo, Trarigo
-109,Muiñeira de Lucas, Lucas
+109,Muiñeira de Lucas,
 110,Muiñeira de Leiloio, Leiloio
 111,Muiñeira Vella,
-112,Muiñeira Vella de Mórdomo, Mórdomo
-113,Muiñeira Vella de Mórdomo, Mórdomo
+112,Muiñeira Vella de Mórdomo,Vella de Mórdomo
+113,Muiñeira Vella de Mórdomo,Vella de Mórdomo
 114,Muiñeira,
 115,Muiñeira de Clemente, Clemente
 116,Muiñeira de Carballo, Carballo
@@ -135,7 +135,7 @@
 133,Na Fonte do Teutro, Teutro
 134,Muiñeira de Umoso, Umoso
 135,Muiñeira de Ponte Maceira, Ponte Maceira
-136,Muiñeira de Calvos de Randín, Calvos 
+136,Muiñeira de Calvos de Randín, Calvos de Randín 
 137,Muiñeira de Aranga, Aranga
 138,Muiñeira da Armenteira,
 139,Muiñeira de Santiso, Santiso
@@ -167,7 +167,7 @@
 165,Danza de Cambados,
 166,Danza de Cambados,
 167,Muiñeira de Lugo, Lugo
-168,Muiñeira de Cangas de Foz, Cangas de Foz
+168,Muiñeira de Cangas de Foz, Cangas de Foz 
 169,"Lévame, Lévame",
 170,Muiñeira,
 171,Muiñeira de Navia, Navia
@@ -180,10 +180,10 @@
 178,Muiñeira,
 179,A Criada do Cura, Cura
 180,No Coto da Xesta,
-181,Muiñeira dos Vinte Compases, Vinte Compases
+181,Muiñeira dos Vinte Compases,
 182,Farruquiña Chaman á Porta,
 183,A Farruquiña,
-184,Muiñeira de Redondela, Redon
+184,Muiñeira de Redondela, Redondela
 185,Muiñeira de Berdoias, Berdoias
 186,Muiñeira,
 187,Muiñeira de Abellá, Abellá
@@ -196,21 +196,21 @@
 194,Muiñeira de Entreambasaugas, Entreambasaugas
 195,Muiñeira do Amaro, Amaro
 196,Muiñeira de Cernades, Cerna
-197,Muiñeira da Gandareira, Gandareira
-198,Muiñeira da Gándara, Gándara
+197,Muiñeira da Gandareira,
+198,Muiñeira da Gándara,
 199,Muiñeira,
-200,Muiñeira Vella de Dombate, Vella de Dombate
+200,Muiñeira Vella de Dombate, Dombate
 201,Muiñeira,
 202,Muiñeira,
-203,Muiñeira do Condado, Condado
+203,Muiñeira do Condado, Conda
 204,Muiñeira de Lavadores, Lavadores
 205,Muiñeira de Albite, Albite
 206,Muiñeira Vella de Alvite, Alvite
 207,Espantalleira,
 208,Muiñeira,
 209,Muiñeira,
-210,A Redonda,
-211,Muiñeira da Costa, Costa
+210,A Redonda,nda
+211,Muiñeira da Costa,
 212,Muiñeira de Cabana, Cabana
 213,Loliña,
 214,Mariñana,
@@ -229,8 +229,8 @@
 227,Muiñeira da Fonsagrada,
 228,Muiñeira,
 229,Muiñeira,
-230,Muiñeira de Paulino, Paulino
-231,Muiñeira de Paulino, Paulino
+230,Muiñeira de Paulino,
+231,Muiñeira de Paulino,
 232,Muiñeira de Riotorto, Riotorto
 233,Muiñeira,
 234,Muiñeira de Meiraos, Meiraos
@@ -238,7 +238,7 @@
 236,Muiñeira,
 237,Muiñeira de Buscás, Buscás
 238,Muiñeira,
-239,Muiñeira dos gaiteiros de Sar, Sar
+239,Muiñeira dos gaiteiros de Sar,Sar
 240,Muiñeira de Bergantiños, Bergantiños
 241,Muiñeira da Ponte de Outeiro, Outeiro
 242,Muiñeira de Ferreira de Pantón, Ferreira 
@@ -254,12 +254,12 @@
 252,Villoria,
 253,Villoria,
 254,A Camposa,
-255,Muiñeira de Melide, Meli
+255,Muiñeira de Melide, Melide
 256,Muiñeira de Veiga de Forcas, Veiga 
 257,Muiñeira,
 258,Muiñeira,
 259,Muiñeira de Cangas, Cangas
-260,Muiñeira da Fonsagrada,
+260,Muiñeira da Fonsagrada, Fonsagrada
 261,Muiñeira,
 262,Muiñeira de Martiño, Martiño
 263,Muiñeira de Cartelle, Cartelle
@@ -267,10 +267,10 @@
 265,Maruxa,
 266,Carmela,
 267,Carmela,
-268,Volandeira,ira
+268,Volandeira,Volandeira
 269,Muineira de Garceiras, Garceiras
 270,Muiñeira de Sexo, Sexo
-271,Muiñeira de Santa Maria de Oleiros, Santa Maria 
+271,Muiñeira de Santa Maria de Oleiros, Santa Maria de Oleiros 
 272,Muiñeira dos Cigarróns, Cigarróns
 273,Muiñeira de Ourense, Ourense
 274,Muiñeira de Mourente, Mourente
@@ -329,7 +329,7 @@
 327,A Coruxa,
 328,Muiñeira de Ibias, Ibias
 329,Muiñeira de Ibias, Ibias
-330,Muiñeira de Valdeferreiros, Val
+330,Muiñeira de Valdeferreiros, Valdeferreiros
 331,Estróupeles tróupele,
 332,Muiñeira de Liñeiro, Liñeiro
 333,Muiñeira Picada,
@@ -349,9 +349,9 @@
 347,Muiñeira de Albarellos, Albarellos
 348,Muiñeira de Carelle, Carelle
 349,Contraparo,
-350,Vinde rapazas, rapazas
+350,Vinde rapazas,
 351,Muiñeira de Arantón, Arantón
-352,Muiñeira de Pradela, Pra
+352,Muiñeira de Pradela,Pradela
 353,Muiñeira Repunteada,
 354,Muiñeira,
 355,Santa Mariña,
@@ -361,7 +361,7 @@
 359,Muiñeira do Carballal, Carballal
 360,O Gaiteiro de Torbolosiño, Torbolosiño
 361,De Llomake a Vigo,
-362,Muiñeira de Parada de Achás, Parada 
+362,Muiñeira de Parada de Achás, Parada de Achás 
 363,Muiñeira,
 364,Muiñeira,
 365,Muiñeira,
@@ -383,7 +383,7 @@
 381,Muiñeira,
 382,Muiñeira,
 383,Muiñeira,
-384,Ribeirana de Pescadores, Pescadores
+384,Ribeirana de Pescadores,
 385,Ribeirana,
 386,Muiñeira de Chancelas, Chancelas
 387,Ruada de Allariz, Allariz
@@ -397,8 +397,8 @@
 395,Muiñeira da Barcala,
 396,A Santiaguesa,
 397,As Festas de Marnela, Marnela
-398,Muiñeira do Século XII, 
-399,Muiñeira de Manuel Dopazo,
+398,Muiñeira do Século XII, Século XII
+399,Muiñeira de Manuel Dopazo, Manuel Dopazo
 400,Muiñeira,
 401,Muiñeira de Riomao, Riomao
 402,Muiñeira de Riomao, Riomao
@@ -410,7 +410,7 @@
 408,Rosariño,
 409,Muiñeira do Picato, Picato
 410,Muiñeira de Xulio Méndez,
-411,Aires do sur, sur
+411,Aires do sur,
 412,Muiñeira,
 413,Muiñeira de Folgoso, Folgoso
 414,Muiñeira de Ancadeira, Anca
