@@ -212,54 +212,50 @@ id,name,parroquia,concellu,province
 347,Muiñeira de Albarellos,Albarellos,Monterrei,Ourense
 348,Muiñeira de Carelle,Carelle,Sobrado,A Coruña
 351,Muiñeira de Arantón,Arantón,Santa Comba,A Coruña
-352,Muiñeira de Pradela,"Pradela, Os Ancares, Lugo"
-354,Muiñeira,"A Seara de Montes, Cartelle, Ourense"
-356,Muiñeira de Vilouchada,Vilouchada
-357,Muiñeira de Señorans,Señorans
-359,Muiñeira do Carballal,"Carballal, O Courel, Lugo"
-360,O Gaiteiro de Torbolosiño,"Santa Eufemia, O Courel, Lugo"
-362,Muiñeira de Parada de Achás,Parada de Achás 
-381,Muiñeira,"Ponte Caldelas, Pontevedra"
-386,Muiñeira de Chancelas,Chancelas
-387,Ruada de Allariz,Allariz
-390,Muiñeira do Cuartel,Cuartel
-391,Muiñeira de Redonda,"Redonda, Corcubión, A Coruña"
-392,Muiñeira de Abellá,Abellá
-393,Muiñeira de Anceis,Anceis
-397,As Festas de Marnela,Marnela
-399,Muiñeira de Manuel Dopazo,A Fonsagrada
-400,Muiñeira,A Fonsagrada
-401,Muiñeira de Riomao,Riomao
-402,Muiñeira de Riomao,Riomao
-405,Muiñeira de Cangas,Cangas
-406,Muiñeira do Piñeiro,Piñeiro
-407,Muiñeira dos Alegres,Alegres
-409,Muiñeira do Picato,Picato
-413,Muiñeira de Folgoso,Folgoso
-414,Muiñeira de Ancadeira,Anca
-416,Muiñeira do Hío,Hío
-418,Muiñeira de Tella,"Os Teixois, Taramundi, Asturias"
-422,Muiñeira de Pontesampaio,Pontesampaio
-423,Muiñeira do Saviñao,"Currelos, Estromil, O Saviñao, Lugo"
-424,Muiñeira das Nogais,"As Nogais, Lugo"
-425,Muiñeira de San Andrés,San Andrés
-427,Carballesa de Melide,"Melide, A Coruña"
-428,Redonda de Bande,Ban
-429,Redonda de Bande,Ban
-430,Ribeirana de Poio,Poio
-431,Ribeirana de Poio,Poio
-432,Muiñeira de Casamiro,"Sambreixo, Parga, Lugo"
-433,Muiñeira de Casamiro,"Sambreixo, Parga, Lugo"
-434,Carvalhesa,Moimenta de Vinhais
-435,Ribeirana de Ventosela,Ventosela
-438,Carballesa do Carballiño,Carballiño
-441,Ribeirana de Villalba,Villalba
-442,Ribeirana de Pontevedra,Pontevedra
-443,Ribeirana de Pontevedra,Pontevedra
-444,Ribeirana de Pontevedra,Pontevedra
-445,Ribeirana de Redondela,Redondela
-446,Ribeirana de Pontevedra,Pontevedra
-449,Carballesa do Incio,Incio
-450,Muiñeira de Vilarmide,"Vilarmide, A Pontenova"
-452,Danza Anterga de Lugo,Lugo
-453,Carballesa do Incio,Incio
+352,Muiñeira de Pradela,Pradela,Os Ancares,Lugo
+354,Muiñeira,A Seara de Montes,Cartelle,Ourense
+356,Muiñeira de Vilouchada,Vilouchada,Trazo,A Coruña
+357,Muiñeira de Señorans,Cereixo,A Estrada,Pontevedra
+359,Muiñeira do Carballal,Carballal,Folgoso do Courel,Lugo
+360,O Gaiteiro de Torbolosiño,Santa Eufemia,Folgoso do Courel,Lugo
+362,Muiñeira de Parada de Achas,Parada de Achas,A Cañiza,Pontevedra 
+381,Muiñeira,,Ponte Caldelas,Pontevedra
+386,Muiñeira de Chancelas,Chancelas,Combarro,Pontevedra
+387,Ruada de Allariz,,Allariz,Ourense
+391,Muiñeira de Redonda,Redonda,Corcubión,A Coruña
+392,Muiñeira de Abellá,Abellá,Frades,A Coruña
+393,Muiñeira de Anceis,Anceis,Cambre,A Coruña
+397,As Festas de Marnela,Marnela,Valdoviño,A Coruña
+399,Muiñeira de Manuel Dopazo,,A Fonsagrada,Lugo
+400,Muiñeira,,A Fonsagrada,Lugo
+401,Muiñeira de Riomao,Riomao,A Veiga,Ourense
+402,Muiñeira de Riomao,Riomao,A Veiga,Ourense
+405,Muiñeira de Cangas,,Cangas,Pontevedra
+409,Muiñeira do Picato,O Picato,Outeiro de Rei,Lugo
+413,Muiñeira de Folgoso,,Folgoso do Courel,Lugo
+414,Muiñeira de Ancadeira,,A Fonsagrada,Lugo
+416,Muiñeira do Hío,Hío,Cangas,Pontevedra
+418,Muiñeira de Tella,Os Teixois,Taramundi,Asturies
+422,Muiñeira de Pontesampaio,,Pontesampaio,Pontevedra
+423,Muiñeira do Saviñao,Estromil,O Saviñao,Lugo
+424,Muiñeira das Nogais,,As Nogais,Lugo
+427,Carballesa de Melide,,Melide,A Coruña
+428,Redonda de Bande,,Bande,Ourense
+429,Redonda de Bande,,Bande,Ourense
+430,Ribeirana de Poio,,Poio,Pontevedra
+431,Ribeirana de Poio,,Poio,Pontevedra
+432,Muiñeira de Casamiro,Sambreixo,Parga,Lugo
+433,Muiñeira de Casamiro,Sambreixo,Parga,Lugo
+434,Carvalhesa,Moimenta de Vinhais,Bragança,Portugal
+435,Ribeirana de Ventosela,Ventosela do Gateiro,Ribadavia,Ourense
+438,Carballesa do Carballiño,,O Carballiño,Ourense
+441,Ribeirana de Villalba,,Villalba,Lugo
+442,Ribeirana de Pontevedra,,Pontevedra,Pontevedra
+443,Ribeirana de Pontevedra,,Pontevedra,Pontevedra
+444,Ribeirana de Pontevedra,,Pontevedra,Pontevedra
+445,Ribeirana de Redondela,,Redondela,Pontevedra
+446,Ribeirana de Pontevedra,,Pontevedra,Pontevedra
+449,Carballesa do Incio,,O Incio,Lugo
+450,Muiñeira de Vilarmide,Vilarmide,A Pontenova,Lugo
+452,Danza Anterga de Lugo,,Lugo,Lugo
+453,Carballesa do Incio,,O Incio,Lugo
