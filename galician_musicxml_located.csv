@@ -1,142 +1,126 @@
-,name,location
-0,Muiñeira dos Fosados,Fosados
-1,Detrás das airas,airas
-2,Muiñeira de Quindous,Quindous
-3,Muiñeira de Quindous,"Quindous, Cervantes, Lugo"
-5,Muiñeira de Monforte,Monforte
-6,Muiñeira de Ventosa,Ventosa
-8,Muiñeira dos Dezas,Dezas
-9,Muiñeira de Coia,Coia
-16,Carballesa,"Boimorto, A Coruña"
-17,Muiñeira de Ambite,Ambite
-18,Muiñeira de Pastoriza,Pastoriza
-19,Muiñeira de Montrove,Montrove
-20,Muiñeira de Eirís,Eirís
-22,Moliñeira da Rogueira,Rogueira
-24,Muiñeira do Lar,Lar
-25,Muiñeira do Lar,Lar
-29,Muiñeira de Campolameiro,Campolameiro
-30,Muiñeira de Campolameiro,Campolameiro
-31,Muiñeira vella de Romeor,Romeor
-32,Muiñeira vella de Romeor,Romeor
-33,Muiñeira do Canizo,"O Canizo, A Gudiña , Ourense"
-36,Muiñeira de Arabexo," Arabexo, Val do Dubra, A Coruña"
-38,Muiñeira de Trasmonte,"Trasmonte, Ames, A Coruña"
-39,Muiñeira de Trasmonte,"Trasmonte, Ames, A Coruña"
-42,Muiñeira de Boimoirto," Boimorto, A Coruña"
-43,Muiñeira dos Ancares,Ancares
-44,Muiñeira de Meira,Meira
-45,Muiñeira de Polín,Polín
+id,name,parroquia,concellu,province
+1,Detrás das airas,,As Airas,Ourense
+2,Muiñeira de Quindous,Quindous,Cervantes,Lugo
+3,Muiñeira de Quindous,Quindous,Cervantes,Lugo
+5,Muiñeira de Monforte,,Monforte,Lugo
+6,Muiñeira de Ventosa,,Ventosa,Pontevedra
+9,Muiñeira de Coia,Coia,Vigo,Pontevedra
+16,Carballesa,,Boimorto,A Coruña
+17,Muiñeira de Ambite,,,
+18,Muiñeira de Pastoriza,,Pastoriza,Lugo
+19,Muiñeira de Montrove,Montrove,Cambre,A Coruña
+20,Muiñeira de Eirís,Eirís,A Coruña,A Coruña
+22,Moliñeira da Rogueira,,Rogueira,Lugo
+29,Muiñeira de Campolameiro,,Campolameiro,Pontevedra
+30,Muiñeira de Campolameiro,,Campolameiro,Pontevedra
+31,Muiñeira vella de Romeor,Romeor,Folgoso do Courel,Lugo
+32,Muiñeira vella de Romeor,Romeor,Folgoso do Courel,Lugo
+33,Muiñeira do Canizo,O Canizo,A Gudiña,Ourense
+36,Muiñeira de Arabexo,Arabexo,Val do Dubra,A Coruña
+38,Muiñeira de Trasmonte,Trasmonte,Ames,A Coruña
+39,Muiñeira de Trasmonte,Trasmonte,Ames,A Coruña
+42,Muiñeira de Boimoirto,Boimorto, A Coruña
+43,Muiñeira dos Ancares,,Ancares,Lugo
+44,Muiñeira de Meira,,Meira,Lugo
+45,Muiñeira de Polín,Polín,Folgoso do Courel,Lugo
 46,Muiñeira de Infesta,Infesta
-47,Muiñeira de Vilaverde,Vilaver
-48,Muiñeira de Gonte,Gonte
-49,Muiñeira de Gonte,Gonte
-50,Muiñeira de San Cosmade,San Cosma
-51,Muiñeira de Cabra,"Queixas, Cerceda, A Coruña"
-52,Muiñeira de Pol,"Pol, Lugo"
-53,Muiñeira de Ambite,Ambite
-54,Muiñeira de Santa Cristina de Marcelle,"Santa Cristina de Marcelle, A Baña, A Coruña "
-55,Muiñeira de Oirós,Oirós
-56,Aires do Castelo,Castelo
-58,Muiñeira de Rebulín,Rebulín
-66,Muiñeira de Corme,"Corme, Ponteceso, A Coruña"
-67,Muiñeira de Corme,"Corme, Ponteceso, A Coruña"
-68,Muiñeira de Santiago de Miraz,"Santiago de Miraz, Friol, Lugo "
-69,Muiñeira de Santiago de Miraz,"Santiago de Miraz, Friol, Lugo"
-70,Muiñeira de Sendelle,Sen
-71,Muiñeira de Sendelle,Sen
-73,Muiñeira de Monterrei,Monterrei
-74,Muiñeira de Monterrei,Monterrei
-75,Muiñeira das Nogais,"As Nogais, Lugo"
-76,Carballesa,"O Carballiño, Ourense"
-77,Muiñeira de Cercedo,Cercedo
-78,Muiñeira de Eiriz,"Eiriz, Folgoso do Courel, Quiroga, Lugo"
-80,Muiñeira de San Fins,San Fins
-81,Muiñeira de Pazos de Borbén,"Pazos de Borbén, Pontevedra "
-82,Muiñeira de Borreiro,Borreiro
-83,Muiñeira de Borreiro,Borreiro
-84,Muiñeira de Burón,Burón
-85,Muiñeira de Burón,Burón
-86,Danza do Molete,Molete
-88,Carballesa de Ibio,Ibio
-89,Muiñeira de Santos,A Fonsagrada
-90,Montañesa de Lugo,Lugo
-91,Muiñeira Montañesa,Montañesa de Lugo
-92,Muiñeira de San Román de Cervantes,"San Román, Cervantes, Lugo"
-93,Muiñeira,"Navia de Suarna, Lugo"
-96,Muiñeira,"Vilarmide, A Pontenova"
-97,Muiñeira,"Vilarmide, A Pontenova"
-98,Muiñeira,"Cangas, Pontevedra"
-99,Muiñeira,"Aldán, Cangas, Pontevedra"
-100,Muiñeira de Aldán,"Aldán, Cangas, Pontevedra"
-106,Muiñeira de Casadelas,"Lema, Baldaio, A Coruña"
-107,Muiñeira de Calvos,Calvos
-108,Muiñeira de Trarigo,Trarigo
-109,Muiñeira de Lucas,"Sambreixo, Parga, Lugo"
-110,Muiñeira de Leiloio,"Leiloio, A Coruña"
-112,Muiñeira Vella de Mórdomo,"Mórdomo, A Coruña"
-113,Muiñeira Vella de Mórdomo,"Mórdomo, A Coruña"
-115,Muiñeira de Clemente,Clemente
-116,Muiñeira de Carballo,"Carballo, A Coruña"
-117,Muiñeira de Grixalba,"Grixalba, Sobrado dos Monxes, A Coruña"
-118,Muiñeira de Vilamaior,"Vilamaior, Ordes, A Coruña"
-119,Muiñeira de Cances,"Cances, A Coruña"
-121,Muiñeira de Florencio,Florencio
-122,Muiñeira de Rodís,"Celeiro, Lugo"
-123,Muliñeira de Romeor,"Romeor, O Courel, Lugo"
-124,Muiñeira de Romeor,"Romeor, O Courel, Lugo"
-126,Muiñeira de Oliveira,"Santiago de Oliveira, Ponteareas, Pontevedra"
-127,O Camiño do Santo Cristo,Santo Cristo
-128,Muiñeira de Buscás,Buscás
-129,Muiñeira das Nasas,Nasas
-130,Muiñeira da Fonsagrada,"A Fonsagrada, Lugo"
-131,Muiñeira da Fonsagrada,"Pobra de Burón, A Fonsagrada, Lugo"
-133,Na Fonte do Teutro,Teutro
-134,Muiñeira de Umoso,"Umoso, Viana do Bolo, Ourense"
-135,Muiñeira de Ponte Maceira,"Ponte Maceira, Negreira, A Coruña"
-136,Muiñeira de Calvos de Randín,Calvos de Randín 
-137,Muiñeira de Aranga,Aranga
-139,Muiñeira de Santiso,Santiso
-140,Muiñeira de Xinzo,Xinzo
-141,Muiñeira de Forcarei,Forcarei
-143,Muiñeira da Fonsagrada,"A Fonsagrada, Lugo"
-144,Muiñeira de Riocereixa,"Riocereixa, Pedrafita do Cebreiro, Lugo"
-145,Muiñeira de Gulpilleira,"Gulpilleiras, A Fonsagrada, Lugo"
-146,Muiñeira de Pacios de Mourisco,"Pacios de Mourisco, A Fonsagrada, Lugo "
-147,Muiñeira de Teixeira,"Teixeira, Pobra de Brollón, Lugo"
-148,Muiñeira de Vilar de Conforto,"Vilar de Conforto, A Pontenova, Lugo "
-151,Muiñeira de Ramiro,"Sambreixo, Parga, Lugo"
-152,Muiñeira dos Fros,Fros
-159,Aire de Muiñeira,Muiñeira
-160,A Cruz de Lobeira,Lobeira
-161,Muiñeira de Desiderio,"Vilarmide, A Pontenova"
-162,Muiñeira,"Navia de Suarna, Lugo"
-164,Ribeirana ,Ordes
-165,Danza de Cambados,Cambados
-166,Danza de Cambados,Cambados
-167,Muiñeira de Lugo,Lugo
-168,Muiñeira de Cangas de Foz,Cangas de Foz 
-170,Muiñeira de Oza dos Ríos,"Oza dos Ríos, Betanzos, A Coruña"
-171,Muiñeira de Navia,Navia
-172,Muiñeira de Piadela,Pia
-173,Ribeirana de Pontevedra,Pontevedra
-175,Muiñeira de Castrelo,Castrelo
-179,A Criada do Cura,Cura
-184,Muiñeira de Redondela,Redondela
-185,Muiñeira de Berdoias,Berdoias
-186,Muiñeira,"Santiso, Vila de Cruces, Pontevedra"
-187,Muiñeira de Abellá,Abellá
-189,Muiñeira de Outeiro,Outeiro
-193,Muiñeira da Picota,"Picota, Mazaricos, A Coruña"
-194,Muiñeira de Entreambasaugas," Entreambasaugas, Guntín de Pallares"
-195,Muiñeira do Amaro,Amaro
-196,Muiñeira de Cernades,Cerna
-200,Muiñeira Vella de Dombate,Dombate
-202,Muiñeira,Pontevedra
-203,Muiñeira do Condado,Conda
-204,Muiñeira de Lavadores,Lavadores
-205,Muiñeira de Albite,Albite
-206,Muiñeira Vella de Alvite,"Alvite, Curtis, A Coruña"
+47,Muiñeira de Vilaverde,Piñeiro,Ames,A Coruña
+48,Muiñeira de Gonte,Gonte,Negreira,A Coruña
+49,Muiñeira de Gonte,Gonte,Negreira,A Coruña
+50,Muiñeira de San Cosmade,San Cosmade,Cerceda,A Coruña
+51,Muiñeira de Cabra,Queixas,Cerceda,A Coruña
+52,Muiñeira de Pol,,Pol,Lugo
+54,Muiñeira de Santa Cristina de Marcelle,Santa Cristina de Marcelle,A Baña,A Coruña 
+55,Muiñeira de Oirós,Oirós,Vila de Cruces,Pontevedra
+56,Aires do Castelo,,,
+66,Muiñeira de Corme,Corme,Ponteceso,A Coruña
+67,Muiñeira de Corme,Corme,Ponteceso,A Coruña
+68,Muiñeira de Santiago de Miraz,Santiago de Miraz,Friol,Lugo
+69,Muiñeira de Santiago de Miraz,Santiago de Miraz,Friol,Lugo
+70,Muiñeira de Sendelle,Sendelle,Boimorto,A Coruña
+71,Muiñeira de Sendelle,Sendelle,Biomorto,A Coruña
+73,Muiñeira de Monterrei,,Monterrei,Ourense
+74,Muiñeira de Monterrei,,Monterrei,Ourense
+75,Muiñeira das Nogais,,As Nogais, Lugo
+76,Carballesa,,O Carballiño, Ourense
+77,Muiñeira de Cercedo,,Cercedo,Pontevedra
+78,Muiñeira de Eiriz,Eiriz,Folgoso do Courel,Lugo
+80,Muiñeira de San Fins,San Fins,,
+81,Muiñeira de Pazos de Borbén,Pazos de Borbén,Pontevedra
+82,Muiñeira de Borreiro,Borreiro,Abegondo,A Coruña
+83,Muiñeira de Borreiro,Borreiro,Abegondo,A Coruña
+84,Muiñeira de Burón,,Burón,León
+85,Muiñeira de Burón,,Burón,León
+89,Muiñeira de Santos,,A Fonsagrada,Lugo
+90,Montañesa de Lugo,,Lugo,Lugo
+91,Montañesa de Lugo,,,Lugo
+92,Muiñeira de San Román de Cervantes,San Román,Cervantes,Lugo
+93,Muiñeira,Navia de Suarna,Lugo
+96,Muiñeira,Vilarmide,A Pontenova,Lugo
+97,Muiñeira,Vilarmide,A Pontenova,Lugo
+98,Muiñeira,,Cangas,Pontevedra
+99,Muiñeira,Aldán,Cangas,Pontevedra
+100,Muiñeira de Aldán,Aldán,Cangas,Pontevedra
+106,Muiñeira de Casadelas,Lema,Baldaio,A Coruña
+107,Muiñeira de Calvos,Calvos,Calvos de Randín,Ourense
+108,Muiñeira de Trarigo,Trarigo,Bande,Ourense
+109,Muiñeira de Lucas,Sambreixo,Parga,Lugo
+110,Muiñeira de Leiloio,Leiloio,Malpica,A Coruña
+112,Muiñeira Vella de Mórdomo,Traba,Laxe,A Coruña
+113,Muiñeira Vella de Mórdomo,Traba,Laxe,A Coruña
+116,Muiñeira de Carballo,,Carballo,A Coruña
+117,Muiñeira de Grixalba,Grixalba,Sobrado dos Monxes,A Coruña
+118,Muiñeira de Vilamaior,Vilamaior,Ordes,A Coruña
+119,Muiñeira de Cances,Cances,Carballo,A Coruña
+121,Muiñeira de Florencio,,A Fonsagrada,Lugo
+122,Muiñeira de Rodís,,Celeiro, Lugo
+123,Muliñeira de Romeor,Romeor,Folgoso do Courel,Lugo
+124,Muiñeira de Romeor,Romeor,Folgoso do Courel,Lugo"
+126,Muiñeira de Oliveira,Santiago de Oliveira,Ponteareas,Pontevedra
+128,Muiñeira de Buscás,Buscás,Ordes,A Coruña
+130,Muiñeira da Fonsagrada,,A Fonsagrada,Lugo
+131,Muiñeira da Fonsagrada,Pobra de Burón,A Fonsagrada,Lugo
+134,Muiñeira de Umoso,Umoso,Viana do Bolo,Ourense
+135,Muiñeira de Ponte Maceira,Ponte Maceira,Negreira,A Coruña
+136,Muiñeira de Calvos de Randín,,Calvos de Randín,Ourense 
+137,Muiñeira de Aranga,,Aranga,A Coruña
+139,Muiñeira de Santiso,,Santiso,A Coruña
+140,Muiñeira de Xinzo,,Xinzo de Limia,Ourense
+141,Muiñeira de Forcarei,,Forcarei,Pontevedra
+143,Muiñeira da Fonsagrada,,A Fonsagrada,Lugo
+144,Muiñeira de Riocereixa,Riocereixa,Pedrafita do Cebreiro,Lugo
+145,Muiñeira de Gulpilleira,Gulpilleiras,A Fonsagrada,Lugo
+146,Muiñeira de Pacios de Mourisco,Pacios de Mourisco,A Fonsagrada,Lugo
+147,Muiñeira de Teixeira,Teixeira,Pobra de Brollón,Lugo
+148,Muiñeira de Vilar de Conforto,Vilar de Conforto,A Pontenova,Lugo
+151,Muiñeira de Ramiro,Sambreixo,Parga,Lugo
+160,A Cruz de Lobeira,Lobeira,Vilanova de Arousa,Pontevedra
+161,Muiñeira de Desiderio,Vilarmide,A Pontenova,Lugo
+162,Muiñeira,,Navia de Suarna,Lugo
+164,Ribeirana,,Ordes,A Coruña
+165,Danza de Cambados,,Cambados,Pontevedra
+166,Danza de Cambados,,Cambados,Pontevedra
+167,Muiñeira de Lugo,,Lugo,Lugo
+168,Muiñeira de Cangas de Foz,Cangas de Foz,Foz,Lugo
+170,Muiñeira de Oza dos Ríos,Oza dos Ríos,Betanzos,A Coruña
+171,Muiñeira de Navia,,Navia de Suarna,Lugo
+172,Muiñeira de Piadela,Santo Estevo de Piadela,Betanzos,A Coruña
+173,Ribeirana de Pontevedra,,Pontevedra,Pontevedra
+175,Muiñeira de Castrelo,Castrelo,Cambados,Pontevedra
+184,Muiñeira de Redondela,,Redondela,Pontevedra
+185,Muiñeira de Berdoias,Berdoias,Vimianzo, A Coruña
+186,Muiñeira,Santiso,Vila de Cruces,Pontevedra
+187,Muiñeira de Abellá,Abellá,Frades,A Coruña
+189,Muiñeira de Outeiro,Outeiro,Arzúa,A Coruña
+193,Muiñeira da Picota,Picota,Mazaricos,A Coruña
+194,Muiñeira de Entreambasaugas,Entreambasaugas,Guntín de Pallares,Lugo
+196,Muiñeira de Cernades,Cernades,,Pontevedra
+200,Muiñeira Vella de Dombate,,Dombate,A Coruña
+202,Muiñeira,,Pontevedra,Pontevedra
+203,Muiñeira do Condado,O Condado,Pontevedra
+204,Muiñeira de Lavadores,Lavadores,Vigo,Pontevedra
+205,Muiñeira de Albite,Albite,Beariz,Ourense
+206,Muiñeira Vella de Alvite,Alvite,Curtis,A Coruña
 212,Muiñeira de Cabana,Cabana
 216,Muiñeira de Lañas,Lañas
 219,Muiñeira de Chantada,Chantada
