@@ -6,12 +6,14 @@ Hello!
 Short summary of the csv files here:
 
 The csv files with id and name of the score (id corresponds to the name of the corresponding xml file)
+
+
 for galician_musicxml_located we also have the location available 
 
 * galician_musicxml_full.csv
 * galician_musicxml_located.csv
 
-Inside features folder:
+Inside data folder:
 
 * data.csv
 * data_located.csv
@@ -30,7 +32,9 @@ and the subset we used for the located songs. These csv files contain this data:
 * lon: Longitude coordinat of the location. (Only in data_located.csv)
 * classification: The classification for the given muiñeira. Can be A Coruña, Rias Baixas, Ancares, Costa do Morte, Courel, A Fonsagrada or Not classified.
 
+Inside score folder:
 
+All 453 musicxml muiñeiras named by index.
 
 ## Reproducibility
 Now for reproducibility's sake:
