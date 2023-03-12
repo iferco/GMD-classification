@@ -28,7 +28,7 @@ and the subset we used for the located songs. These csv files contain this data:
 * location: The location of the muiñeira in only one row. (Only in data_located.csv)
 * lat: Latitude coordinat of the location. (Only in data_located.csv)
 * lon: Longitude coordinat of the location. (Only in data_located.csv)
-
+* classification: The classification for the given muiñeira. Can be A Coruña, Rias Baixas, Ancares, Costa do Morte, Courel, A Fonsagrada or Not classified.
 
 
 
