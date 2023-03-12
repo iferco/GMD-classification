@@ -6,7 +6,6 @@ id,name,parroquia,concellu,province
 6,Muiñeira de Ventosa,,Ventosa,Pontevedra
 9,Muiñeira de Coia,Coia,Vigo,Pontevedra
 16,Carballesa,,Boimorto,A Coruña
-17,Muiñeira de Ambite,,,
 18,Muiñeira de Pastoriza,,Pastoriza,Lugo
 19,Muiñeira de Montrove,Montrove,Cambre,A Coruña
 20,Muiñeira de Eirís,Eirís,A Coruña,A Coruña
@@ -32,7 +31,6 @@ id,name,parroquia,concellu,province
 52,Muiñeira de Pol,,Pol,Lugo
 54,Muiñeira de Santa Cristina de Marcelle,Santa Cristina de Marcelle,A Baña,A Coruña 
 55,Muiñeira de Oirós,Oirós,Vila de Cruces,Pontevedra
-56,Aires do Castelo,,,
 66,Muiñeira de Corme,Corme,Ponteceso,A Coruña
 67,Muiñeira de Corme,Corme,Ponteceso,A Coruña
 68,Muiñeira de Santiago de Miraz,Santiago de Miraz,Friol,Lugo
@@ -75,7 +73,7 @@ id,name,parroquia,concellu,province
 121,Muiñeira de Florencio,,A Fonsagrada,Lugo
 122,Muiñeira de Rodís,,Celeiro, Lugo
 123,Muliñeira de Romeor,Romeor,Folgoso do Courel,Lugo
-124,Muiñeira de Romeor,Romeor,Folgoso do Courel,Lugo"
+124,Muiñeira de Romeor,Romeor,Folgoso do Courel,Lugo
 126,Muiñeira de Oliveira,Santiago de Oliveira,Ponteareas,Pontevedra
 128,Muiñeira de Buscás,Buscás,Ordes,A Coruña
 130,Muiñeira da Fonsagrada,,A Fonsagrada,Lugo
