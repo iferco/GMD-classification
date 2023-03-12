@@ -19,7 +19,7 @@ We also have:
 These are the fully processed data files with all the features we extracted, both for the full dataset
 and the subset we used for the located songs. These csv files contain this data:
 
-*id: The int id that corresponds to the musicxml file in the data folder.
+* id: The int id that corresponds to the musicxml file in the data folder.
 * name: The name of the muineira.z
 * key: The key of the muiñeira.
 * time_signature: The time signature of the muineira.
