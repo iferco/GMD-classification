@@ -1,23 +1,44 @@
 
+Hello!
+
+Short summary of the csv files here:
+
+The csv files with id and name of the score (id corresponds to the name of the corresponding xml file)
+for galician_musicxml_located we also have the location available 
+
+galician_musicxml_full.csv
+galician_musicxml_located.csv
+
+We also have:
+data.csv
+data_located.csv
+
+These are the fully processed data files with all the features we extracted, both for the full dataset
+and the subset we used for the located songs. These csv files contain this data:
+
+id: The int id that corresponds to the musicxml file in the data folder.
+name: The name of the muineira.
+key: The key of the muiñeira.
+time_signature: The time signature of the muineira.
+ratio_negras_corcheas: The quarter to eighth ratio in the muiñeira.
+muiñeira_type: Value C1 or C2 depending on the structure of the muiñeira.
+location: The location of the muiñeira in only one row. (Only in data_located.csv)
+lat: Latitude coordinat of the location. (Only in data_located.csv)
+lon: Longitude coordinat of the location. (Only in data_located.csv)
 
 
-¡Hola!
 
-Ojo al path si vas a usar el example.ipynb. Esti cuaderno tienes que meterlo en la carpeta data
-pa que funcione.
-Esta carpeta es temporal para que hagamos un poco tests y vemos que podemos hacer y luego la borramos
+-------------------------------
 
+Now for reproducibility's sake:
 
-                              music21
-galician_musicxml_full.csv    ======> df_key.csv 
-galician_musicxml_located.csv ======> df_key_located.csv
+To extract all the scores from Folkoteca Galega, you first want to run galician_scraping.ipynb
+(make sure the folder doesn't contain the score files already), after this, you want to move the
+feature_extraction.ipynb to the data folder and run it, if you have the paths set up properly,
+it will return data.csv and data_located.csv, move all these new files to the same 
+folder as data_visualization.ipynb.
 
+Now to get the final results, just run data_visualization.ipynb, you will get both the final
+data_located.csv and the visualization of all the data.
 
-Detalle que no me dio tiempo a implementar: que todas las key se guarden con el mismo formato
-(hay un follo entre G major, g major g- major... que habria que arreglar) asi si ta todo igual
-podemos facer estadisticas con ello
-
-:)
-
-PD: para tirar el music21 tuve que copiar el MuseScore3.exe a la carpeta que puse nel ipynb, aviso por
-si te pasa igual
+Moitas grazas / Munches gracies!
