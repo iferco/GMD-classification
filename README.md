@@ -42,7 +42,7 @@ Now for reproducibility's sake:
 To extract all the scores from Folkoteca Galega, you first want to run galician_scraping.ipynb
 (make sure the folder you want to store the scores in doesn't contain the files already), after this, you want to move the
 feature_extraction.ipynb to the data folder and run it, if you have the paths set up properly,
-it will return data.csv and data_located.csv, move all these new files to the features folder (or prepare your own correct paths)
+it will return data.csv and data_located.csv (important: reading last markdown about this file in the ipynb), now move all these new files to the data folder (or prepare your own correct paths)
 
 Now to get the final results, just run data_visualization.ipynb, you will get both the final
 data_located.csv and the visualization of all the data.
