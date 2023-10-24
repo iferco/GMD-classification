@@ -1,257 +1,257 @@
-id,name,key,time_signature,ratio_negras_corcheas,muiñeira_type,location,lat,lon,classification
-1,Detrás das airas,C major,6/8,0.2465753424657534,C1,"As Airas, Ourense",42.3074449,-7.9018209,Not classified
-2,Muiñeira de Quindous,C major,6/8,0.3125,C1,"Quindous, Cervantes, Lugo",42.8556407,-6.9957933,Ancares
-3,Muiñeira de Quindous,C major,6/8,0.3076923076923077,C1,"Quindous, Cervantes, Lugo",42.8556407,-6.9957933,Ancares
-5,Muiñeira de Monforte,C major,6/8,0.24,C1,"Monforte, Lugo",42.5236693,-7.5096951,Not classified
-6,Muiñeira de Ventosa,C major,6/8,0.16,C1,"Ventosa, Pontevedra",42.7366955,-7.97617,Not classified
-9,Muiñeira de Coia,F major,6/8,0.2188841201716738,C1,"Coia, Vigo, Pontevedra",42.2182924,-8.7441073,Rias Baixas
-16,Carballesa,C major,2/4,0.2307692307692307,C2,"Boimorto, A Coruña",43.0074402,-8.1269242,Not classified
-18,Muiñeira de Pastoriza,C major,6/8,0.0571428571428571,C1,"Pastoriza, Lugo",43.3000026,-7.3511022,A Fonsagrada-Asturias
-19,Muiñeira de Montrove,C major,6/8,0.3818181818181818,C2,"Montrove, Cambre, A Coruña",43.2803751,-8.3297129,A Coruña
-20,Muiñeira de Eirís,C major,6/8,0.09375,C2,"Eirís, A Coruña, A Coruña",43.3426745,-8.395072,A Coruña
-22,Moliñeira da Rogueira,C major,6/8,0.3820224719101123,C1,"Rogueira, Lugo",42.6088781,-7.1152898,Courel
-29,Muiñeira de Campolameiro,C major,6/8,0.0377358490566037,C1,"Campolameiro, Pontevedra",42.5422912,-8.540772255060599,Rias Baixas
-30,Muiñeira de Campolameiro,C major,6/8,0.0380952380952381,C1,"Campolameiro, Pontevedra",42.5422912,-8.540772255060599,Rias Baixas
-31,Muiñeira vella de Romeor,C major,6/8,0.09375,C1,"Romeor, Folgoso do Courel, Lugo",42.6407659,-7.0946001,Courel
-32,Muiñeira vella de Romeor,C major,6/8,0.0377358490566037,C1,"Romeor, Folgoso do Courel, Lugo",42.6407659,-7.0946001,Courel
-33,Muiñeira do Canizo,F major,6/8,1.1851851851851851,C2,"O Canizo, A Gudiña, Ourense",42.0559598,-7.0906188,Portuguese Border
-36,Muiñeira de Arabexo,C major,6/8,0.1176470588235294,C1,"Arabexo, Val do Dubra, A Coruña",43.06802085,-8.657671483625101,Costa do Morte
-38,Muiñeira de Trasmonte,C major,6/8,0.1865671641791045,C1,"Trasmonte, Ames, A Coruña",42.889798,-8.6786493,Costa do Morte
-39,Muiñeira de Trasmonte,C major,6/8,0.1666666666666666,C1,"Trasmonte, Ames, A Coruña",42.889798,-8.6786493,Costa do Morte
-42,Muiñeira de Boimoirto,C major,6/8,0.1195652173913043,C2,"Boimorto, A Coruña",43.0074402,-8.1269242,Not classified
-43,Muiñeira dos Ancares,C major,6/8,0.0421052631578947,C2,"Ancares, Lugo",42.84444815,-7.05925848680706,Ancares
-44,Muiñeira de Meira,C major,6/8,0.1096774193548387,C1,"Meira, Lugo",43.2135737,-7.2936633,A Fonsagrada-Asturias
-45,Muiñeira de Polín,C major,6/8,0.2297297297297297,C1,"Polín, Folgoso do Courel, Lugo",42.6118292,-7.1271841,Courel
-47,Muiñeira de Vilaverde,a minor,6/8,0.2075471698113207,C1,"Piñeiro, Ames, A Coruña",42.9421319,-8.6453943,Costa do Morte
-48,Muiñeira de Gonte,C major,6/8,0.1621621621621621,C1,"Gonte, Negreira, A Coruña",42.9022821,-8.7599907,Costa do Morte
-49,Muiñeira de Gonte,C major,6/8,0.303030303030303,C1,"Gonte, Negreira, A Coruña",42.9022821,-8.7599907,Costa do Morte
-50,Muiñeira de San Cosmade,c minor,6/8,0.0643274853801169,C1,"San Cosmade, Cerceda, A Coruña",43.1516767,-8.4209222,A Coruña
-51,Muiñeira de Cabra,c minor,6/8,0.1625,C1,"Queixas, Cerceda, A Coruña",43.160960900000006,-8.48117137776195,A Coruña
-52,Muiñeira de Pol,C major,6/8,0.1294117647058823,C1,"Pol, Lugo",43.14281665,-7.321889132285174,A Fonsagrada-Asturias
-54,Muiñeira de Santa Cristina de Marcelle,a minor,6/8,0.1205673758865248,C2,"Santa Cristina de Marcelle, A Baña, A Coruña",42.987517800000006,-8.75081135674603,Costa do Morte
-55,Muiñeira de Oirós,C major,6/8,0.1463414634146341,C1,"Oirós, Vila de Cruces, Pontevedra",42.7616655,-8.1874096,Not classified
-66,Muiñeira de Corme,C major,6/8,0.1475409836065573,C1,"Corme, Ponteceso, A Coruña",43.2649815,-8.9628988,Costa do Morte
-67,Muiñeira de Corme,C major,6/8,0.0526315789473684,C1,"Corme, Ponteceso, A Coruña",43.2649815,-8.9628988,Costa do Morte
-68,Muiñeira de Santiago de Miraz,C major,6/8,0.4189189189189189,C1,"Santiago de Miraz, Friol, Lugo",43.1134947,-7.8414911,Not classified
-69,Muiñeira de Santiago de Miraz,C major,6/8,0.2906976744186046,C1,"Santiago de Miraz, Friol, Lugo",43.1134947,-7.8414911,Not classified
-70,Muiñeira de Sendelle,C major,6/8,0.1025641025641025,C1,"Sendelle, Boimorto, A Coruña",42.9853899,-8.1547395,Not classified
-71,Muiñeira de Sendelle,C major,6/8,0.073170731707317,C1,"Sendelle, Biomorto, A Coruña",43.3709703,-8.3959425,Not classified
-73,Muiñeira de Monterrei,a minor,6/8,0.2698412698412698,C1,"Monterrei, Ourense",41.9467657,-7.4491474,Portuguese Border
-74,Muiñeira de Monterrei,a minor,6/8,0.2131147540983606,C1,"Monterrei, Ourense",41.9467657,-7.4491474,Portuguese Border
-75,Muiñeira das Nogais,C major,6/8,0.1142857142857142,C1,"As Nogais, Lugo",42.8089027,-7.1089861,Not classified
-76,Carballesa,C major,2/4,0.1587301587301587,C2,"O Carballiño, Ourense",42.4300046,-8.0780481,Not classified
-77,Muiñeira de Cercedo,C major,6/8,0.1616766467065868,C2,"Cercedo, Pontevedra",42.5325107,-8.392381776641137,Rias Baixas
-78,Muiñeira de Eiriz,C major,6/8,0.4680851063829787,C2,"Eiriz, Folgoso do Courel, Lugo",42.5894237,-7.2220799,Courel
-81,Muiñeira de Pazos de Borbén,C major,6/8,1.9047619047619049,C2,"Pazos de Borbén, Pontevedra",42.2849584,-8.530047868320796,Rias Baixas
-82,Muiñeira de Borreiro,C major,6/8,0.1333333333333333,C2,"Borreiro, Abegondo, A Coruña",43.2104427,-8.2903237,A Coruña
-83,Muiñeira de Borreiro,C major,6/8,0.144578313253012,C2,"Borreiro, Abegondo, A Coruña",43.2104427,-8.2903237,A Coruña
-84,Muiñeira de Burón,C major,6/8,0.2076923076923077,C1,"Burón, León",43.0244821,-5.0514632,Not classified
-85,Muiñeira de Burón,C major,6/8,0.1769230769230769,C1,"Burón, León",43.0244821,-5.0514632,Not classified
-89,Muiñeira de Santos,C major,6/8,0.0789473684210526,C2,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-90,Montañesa de Lugo,C major,6/8,0.1929824561403508,C1,"Lugo, Lugo",43.0118437,-7.5565749,Not classified
-91,Montañesa de Lugo,C major,6/8,0.2123893805309734,C1,Lugo,43.0462247,-7.4739921,Not classified
-92,Muiñeira de San Román de Cervantes,C major,6/8,0.3068181818181818,C1,"San Román, Cervantes, Lugo",42.853731,-7.0549167,Ancares
-93,Muiñeira,C major,6/8,0.3333333333333333,C2,"Navia de Suarna, Lugo",42.9644848,-6.95678939929841,Ancares
-96,Muiñeira,C major,6/8,0.1276595744680851,C1,"Vilarmide, A Pontenova, Lugo",43.2789245,-7.1913498,A Fonsagrada-Asturias
-97,Muiñeira,C major,6/8,0.4126984126984127,C1,"Vilarmide, A Pontenova, Lugo",43.2789245,-7.1913498,A Fonsagrada-Asturias
-98,Muiñeira,F major,6/8,0.75,C1,"Cangas, Pontevedra",42.2647235,-8.7796487,Rias Baixas
-99,Muiñeira,F major,6/8,0.75,C1,"Aldán, Cangas, Pontevedra",42.2903427,-8.806088,Rias Baixas
-100,Muiñeira de Aldán,F major,6/8,0.2708333333333333,C2,"Aldán, Cangas, Pontevedra",42.2903427,-8.806088,Rias Baixas
-106,Muiñeira de Casadelas,C major,6/8,0.0531914893617021,C1,"Lema, Baldaio, A Coruña",43.1450259,-8.5763411,Not classified
-107,Muiñeira de Calvos,a minor,6/8,1.7,C2,"Calvos, Calvos de Randín, Ourense",41.9444089,-7.8968131,Portuguese Border
-108,Muiñeira de Trarigo,C major,6/8,0.1780821917808219,C2,"Trarigo, Bande, Ourense",42.0383776,-7.904845,Portuguese Border
-109,Muiñeira de Lucas,C major,6/8,0.365079365079365,C2,"Sambreixo, Parga, Lugo",43.1452907,-7.791647688176285,Not classified
-110,Muiñeira de Leiloio,C major,6/8,0.088,C1,"Leiloio, Malpica, A Coruña",43.2667103,-8.758421443297864,Costa do Morte
-112,Muiñeira Vella de Mórdomo,C major,6/8,0.0204081632653061,C1,"Traba, Laxe, A Coruña",43.1806055,-9.04681986216078,Costa do Morte
-113,Muiñeira Vella de Mórdomo,C major,6/8,0.0526315789473684,C1,"Traba, Laxe, A Coruña",43.1806055,-9.04681986216078,Costa do Morte
-116,Muiñeira de Carballo,C major,6/8,0.1234567901234567,C2,"Carballo, A Coruña",43.2134123,-8.6891286,Costa do Morte
-117,Muiñeira de Grixalba,C major,6/8,0.2153846153846154,C1,"Grixalba, Sobrado dos Monxes, A Coruña",43.0404996,-8.02238,Not classified
-118,Muiñeira de Vilamaior,C major,6/8,0.238095238095238,C2,"Vilamaior, Ordes, A Coruña",43.11470785,-8.331495821373032,A Coruña
-119,Muiñeira de Cances,a minor,6/8,0.127906976744186,C1,"Cances, Carballo, A Coruña",43.24375135,-8.748642556145336,Costa do Morte
-121,Muiñeira de Florencio,F major,6/8,0.1529411764705882,C1,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-122,Muiñeira de Rodís,C major,6/8,0.296875,C1,"Celeiro, Lugo",43.6775723,-7.577245,Not classified
-123,Muliñeira de Romeor,C major,6/8,0.0744680851063829,C1,"Romeor, Folgoso do Courel, Lugo",42.6407659,-7.0946001,Courel
-124,Muiñeira de Romeor,C major,6/8,0.057471264367816,C1,"Romeor, Folgoso do Courel, Lugo",42.6407659,-7.0946001,Courel
-126,Muiñeira de Oliveira,C major,6/8,0.96,,"Santiago de Oliveira, Ponteareas, Pontevedra",42.1822609,-8.4523004,Rias Baixas
-128,Muiñeira de Buscás,C major,6/8,0.0588235294117647,C2,"Buscás, Ordes, A Coruña",43.1015063,-8.374827040699586,A Coruña
-130,Muiñeira da Fonsagrada,C major,6/8,0.1195652173913043,C1,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-131,Muiñeira da Fonsagrada,C major,6/8,0.1504424778761062,C1,"Pobra de Burón, A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-134,Muiñeira de Umoso,C major,6/8,0.1693548387096774,C1,"Umoso, Viana do Bolo, Ourense",42.1334597,-7.0644252,Portuguese Border
-135,Muiñeira de Ponte Maceira,C major,6/8,0.0,C2,"Ponte Maceira, Negreira, A Coruña",42.905445,-8.6962309,Costa do Morte
-136,Muiñeira de Calvos de Randín,C major,6/8,0.1809523809523809,C1,"Calvos de Randín, Ourense ",41.92502975,-7.859098930350559,Portuguese Border
-137,Muiñeira de Aranga,C major,6/8,0.2162162162162162,C1,"Aranga, A Coruña",43.2340593,-8.0160606,Not classified
-139,Muiñeira de Santiso,C major,6/8,0.021505376344086,C2,"Santiso, A Coruña",42.8460891,-8.03872,Not classified
-140,Muiñeira de Xinzo,F major,6/8,0.1019108280254777,C1,"Xinzo de Limia, Ourense",42.0637882,-7.7245498,Portuguese Border
-141,Muiñeira de Forcarei,G major,6/8,0.2266666666666666,C1,"Forcarei, Pontevedra",42.5900309,-8.3509643,Rias Baixas
-143,Muiñeira da Fonsagrada,C major,6/8,0.1176470588235294,C1,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-144,Muiñeira de Riocereixa,C major,6/8,0.2238805970149253,C1,"Riocereixa, Pedrafita do Cebreiro, Lugo",42.6423216,-7.0565107,Courel
-145,Muiñeira de Gulpilleira,C major,6/8,0.1075949367088607,C1,"Gulpilleiras, A Fonsagrada, Lugo",43.1183311,-7.1824405,A Fonsagrada-Asturias
-146,Muiñeira de Pacios de Mourisco,C major,6/8,0.193103448275862,C1,"Pacios de Mourisco, A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-147,Muiñeira de Teixeira,C major,6/8,0.1294117647058823,C1,"Teixeira, Pobra de Brollón, Lugo",42.5996975,-7.3163647,Courel
-148,Muiñeira de Vilar de Conforto,C major,6/8,0.1494252873563218,C2,"Vilar de Conforto, A Pontenova, Lugo",43.3604703,-7.1525053712882105,A Fonsagrada-Asturias
-151,Muiñeira de Ramiro,C major,6/8,0.1241830065359477,C1,"Sambreixo, Parga, Lugo",43.1452907,-7.791647688176285,Not classified
-160,A Cruz de Lobeira,F major,6/8,0.3472222222222222,C1,"Lobeira, Vilanova de Arousa, Pontevedra",42.5632279,-8.7629369,Rias Baixas
-161,Muiñeira de Desiderio,C major,6/8,0.1176470588235294,C1,"Vilarmide, A Pontenova, Lugo",43.2789245,-7.1913498,A Fonsagrada-Asturias
-162,Muiñeira,C major,6/8,0.2547169811320754,C2,"Navia de Suarna, Lugo",42.9644848,-6.95678939929841,Ancares
-164,Ribeirana,C major,6/8,0.1333333333333333,C1,"Ordes, A Coruña",43.076756,-8.407816,A Coruña
-165,Danza de Cambados,C major,6/8,0.0989010989010989,C2,"Cambados, Pontevedra",42.51439,-8.8138414,Rias Baixas
-166,Danza de Cambados,a minor,6/8,0.1264367816091954,C2,"Cambados, Pontevedra",42.51439,-8.8138414,Rias Baixas
-167,Muiñeira de Lugo,C major,6/8,0.1632653061224489,C2,"Lugo, Lugo",43.0118437,-7.5565749,Not classified
-168,Muiñeira de Cangas de Foz,C major,6/8,0.1666666666666666,C1,"Cangas de Foz, Foz, Lugo",43.6260123,-7.333295,Not classified
-170,Muiñeira de Oza dos Ríos,a minor,6/8,0.2206896551724138,C2,"Oza dos Ríos, Betanzos, A Coruña",43.2150697,-8.1859732,Not classified
-171,Muiñeira de Navia,C major,6/8,0.1298701298701298,C2,"Navia de Suarna, Lugo",42.9644848,-6.95678939929841,Ancares
-172,Muiñeira de Piadela,C major,6/8,0.0695970695970696,C1,"Santo Estevo de Piadela, Betanzos, A Coruña",43.2729197,-8.2218227,Not classified
-173,Ribeirana de Pontevedra,C major,6/8,0.0625,C2,"Pontevedra, Pontevedra",42.4318876,-8.6431592,Rias Baixas
-175,Muiñeira de Castrelo,C major,6/8,0.2093023255813953,C1,"Castrelo, Cambados, Pontevedra",42.4793217,-8.8129544,Rias Baixas
-184,Muiñeira de Redondela,C major,6/8,0.0941176470588235,C1,"Redondela, Pontevedra",42.284221,-8.6085992,Rias Baixas
-185,Muiñeira de Berdoias,C major,6/8,0.3235294117647059,C1,"Berdoias, Vimianzo, A Coruña",43.0581867,-9.0859542,Costa do Morte
-186,Muiñeira,C major,6/8,0.0227272727272727,C2,"Santiso, Vila de Cruces, Pontevedra",42.7937228,-8.1699391,Not classified
-187,Muiñeira de Abellá,C major,6/8,0.1707317073170731,C1,"Abellá, Frades, A Coruña",43.0824107,-8.306377955844088,A Coruña
-189,Muiñeira de Outeiro,C major,6/8,0.1309523809523809,C1,"Outeiro, Arzúa, A Coruña",42.918878,-8.2431648,Not classified
-193,Muiñeira da Picota,C major,6/8,0.2281879194630872,C2,"Picota, Mazaricos, A Coruña",42.9381195,-8.9919635,Costa do Morte
-194,Muiñeira de Entreambasaugas,C major,6/8,0.2183908045977011,C1,"Entreambasaugas, Guntín de Pallares, Lugo",42.8890081,-7.69235,Not classified
-196,Muiñeira de Cernades,a minor,6/8,0.2105263157894736,C1,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-200,Muiñeira Vella de Dombate,C major,6/8,0.2597402597402597,C1,"Dombate, A Coruña",43.1870604,-8.9714237,Costa do Morte
-202,Muiñeira,C major,6/8,0.1629213483146067,C2,"Pontevedra, Pontevedra",42.4318876,-8.6431592,Rias Baixas
-203,Muiñeira do Condado,C major,6/8,0.1063829787234042,C1,"O Condado, Pontevedra",42.17671145,-8.488781069275163,Rias Baixas
-204,Muiñeira de Lavadores,F major,6/8,0.1052631578947368,C2,"Lavadores, Vigo, Pontevedra",42.2288566,-8.6911053,Rias Baixas
-205,Muiñeira de Albite,C major,6/8,0.1309523809523809,C2,"Albite, Beariz, Ourense",42.489646,-8.2921856,Rias Baixas
-206,Muiñeira Vella de Alvite,C major,6/8,0.1494252873563218,C2,"Alvite, Curtis, A Coruña",43.099699,-8.1183034,Not classified
-212,Muiñeira de Cabana,c minor,6/8,0.1349206349206349,C1,"Cabana, A Coruña",43.1433392,-9.0940115,Costa do Morte
-216,Muiñeira de Lañas,C major,6/8,0.1153846153846153,C1,"Lañas, Arteixo, A Coruña",43.2906128,-8.5303258,A Coruña
-219,Muiñeira de Chantada,C major,6/8,0.3888888888888889,C2,"Chantada, Lugo",42.6089783,-7.8218597,Not classified
-222,Muiñeira de Santaia de Moar,C major,6/8,0.1481481481481481,C1,"Moar, Frades, A Coruña",43.02522075,-8.316061712950571,A Coruña
-223,Muiñeira de Rubiás,C major,6/8,0.3020833333333333,C1,"Rubiás, Calvos de Randín, Ourense",41.9086858,-7.8331329,Portuguese Border
-224,Muiñeira de Viceso,C major,6/8,0.06,C1,"Viceso, Brión, A Coruña",42.8680088,-8.737978,Costa do Morte
-225,Muiñeira das Mariñas,C major,6/8,0.1088435374149659,C2,A Coruña,43.3709703,-8.3959425,Not classified
-226,Muiñeira,G major,6/8,0.198019801980198,C1,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-232,Muiñeira de Riotorto,C major,6/8,0.196078431372549,C2,"Riotorto, Lugo",43.3248159,-7.273209287981473,A Fonsagrada-Asturias
-234,Muiñeira de Meiraos,a minor,6/8,0.1857142857142857,C1,"Meiraos, Folgoso do Caurel, Lugo",43.0462247,-7.4739921,Not classified
-235,Muiñeira de Freixido,C major,6/8,0.1479289940828402,C1,"Freixido, Larouco, Ourense",42.3537797,-7.1710087,Not classified
-236,Muiñeira,F major,6/8,1.3902439024390243,C2,"Lugariño de Imende, Carballo, A Coruña",43.2134123,-8.6891286,Costa do Morte
-237,Muiñeira de Buscás,C major,6/8,0.2985074626865671,C2,"Buscás, Ordes, A Coruña",43.1015063,-8.374827040699586,A Coruña
-238,Muiñeira,c minor,6/8,2.136363636363636,C2,"Xirazga, Beariz, Ourense",42.4750564,-8.3274493,Rias Baixas
-239,Muiñeira dos gaiteiros de Sar,C major,6/8,0.1521739130434782,C2,A Coruña,43.3709703,-8.3959425,Not classified
-240,Muiñeira de Bergantiños,C major,6/8,0.2322274881516587,C2,A Coruña,43.3709703,-8.3959425,Not classified
-241,Muiñeira da Ponte de Outeiro,C major,6/8,0.1235955056179775,C1,"San Martín de Corbelle, A Pastoriza, Lugo",43.3000026,-7.3511022,A Fonsagrada-Asturias
-242,Muiñeira de Ferreira de Pantón,C major,6/8,0.4210526315789473,C1,"San Iago de Castillón, Pantón, Lugo",42.50859375,-7.6423645799426865,Not classified
-243,Muiñeira de Vilantime,C major,6/8,0.1645569620253164,C1,"Arzúa, A Coruña",42.9279921,-8.1605667,Not classified
-244,Muiñeira do Castrillón,C major,6/8,0.3161764705882353,C1,"Bretoña, Pastoriza, Lugo",43.3395116,-7.3297908,A Fonsagrada-Asturias
-245,Muiñeira de Castrillón,C major,6/8,0.3883495145631068,,"Bretoña, A Pastoriza, Lugo",43.3395116,-7.3297908,A Fonsagrada-Asturias
-246,Muiñeira de Guitizá,C major,6/8,0.5283018867924528,C2,"A Porta, O Sobrado, A Coruña",43.03607855,-8.01822383178772,Not classified
-249,Muiñeira do Areal,C major,6/8,0.134453781512605,C1,Lugo,43.0462247,-7.4739921,Not classified
-250,Muiñeira do Areal,C major,6/8,0.2095238095238095,C1,Lugo,43.0462247,-7.4739921,Not classified
-251,Muiñeira de Mazaricos,F major,6/8,0.058252427184466,C2,"Mazaricos, A Coruña",42.9364002,-8.9904506,Costa do Morte
-255,Muiñeira de Melide,d minor,6/8,0.08,C2,"Melide, A Coruña",42.9145741,-8.0136139,Not classified
-256,Muiñeira de Veiga de Forcas,f minor,6/8,0.1643835616438356,C2,"Veiga de Forcas, Lugo, Lugo",42.6879835,-7.0831654,Courel
-259,Muiñeira de Cangas,C major,6/8,0.1794871794871795,C1,"Cangas, Pontevedra",42.2647235,-8.7796487,Rias Baixas
-260,Muiñeira da Fonsagrada,C major,6/8,0.0814814814814814,C2,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-261,Muiñeira,C major,6/8,0.352112676056338,C2,"Laroá, A Limia, Ourense",41.9999255,-7.6937387,Portuguese Border
-263,Muiñeira de Cartelle,C major,6/8,0.3214285714285714,C2,"Cartelle, Ourense",42.2492308,-8.0688652,Not classified
-264,Muiñeira de Monforte,C major,6/8,0.3584905660377358,C2,"Monforte de Lemos, Lugo",42.5236693,-7.5096951,Not classified
-265,Maruxa,C major,6/8,0.1958762886597938,C2,"Coruña, A Coruña",43.3709703,-8.3959425,Not classified
-269,Muineira de Garceiras,C major,6/8,0.0941176470588235,C2,"Garceiras, Melide, A Coruña",42.9284809,-8.0077901,Not classified
-270,Muiñeira de Sexo,d minor,6/8,0.3559322033898305,C2,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-271,Muiñeira de Santa Maria de Oleiros,C major,6/8,0.2795698924731182,C2,"Santa Maria de Oleiros, Oleiros, A Coruña",43.3330642,-8.3170764,A Coruña
-273,Muiñeira de Ourense,C major,6/8,0.0384615384615384,C1,"Ourense, Ourense",42.3436415,-7.8674242,Not classified
-274,Muiñeira de Mourente,C major,6/8,0.4477611940298507,C2,"Mourente, Pontevedra, Pontevedra",42.4390311,-8.6141785,Rias Baixas
-275,Muiñeira de Cangas,C major,6/8,0.4333333333333333,C2,"Cangas, Pontevedra",42.2647235,-8.7796487,Rias Baixas
-276,Muiñeira de Cangas,C major,6/8,0.1764705882352941,C2,"Cangas, Pontevedra",42.2647235,-8.7796487,Rias Baixas
-277,Muiñeira de Cangas,C major,6/8,0.524390243902439,C1,"Cangas, Pontevedra",42.2647235,-8.7796487,Rias Baixas
-278,Muiñeira de Cangas,C major,6/8,0.0943396226415094,C1,"Cangas, Pontevedra",42.2647235,-8.7796487,Rias Baixas
-280,Muiñeira de Poio,C major,6/8,0.2181818181818181,C1,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-282,Muiñeira de Vilanova,C major,6/8,0.1212121212121212,C2,"Vilanova, Pontevedra",42.592833,-8.1135799,Not classified
-284,Muiñeira do Morrazo,C major,6/8,0.2121212121212121,C2,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-285,Muiñeira de Muradelle,C major,6/8,0.180722891566265,C1,"Muradelle, Chantada, Lugo",42.6371171,-7.8232962,Not classified
-286,Muiñeira de Poio,C major,6/8,0.1590909090909091,C1,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-287,Muiñeira de Negros,C major,6/8,0.3444444444444444,C1,"Negros, Redondela, Pontevedra",42.2598627,-8.6216602,Rias Baixas
-288,Muiñeira de Visma,C major,6/8,0.1636363636363636,C2,"Visma, A Coruña",43.3672536,-8.4359104,Not classified
-292,Muiñeira de Froxán,C major,6/8,0.0859375,C1,"Froxán, Folgoso do Courel, Lugo",42.5477754,-7.2518208,Not classified
-293,Muiñeira de Froxán,C major,6/8,0.0962962962962963,C1,"Froxán, Folgoso do Courel, Lugo",42.5477754,-7.2518208,Not classified
-294,Muiñeira de Froxán,C major,6/8,0.0859375,C1,"Froxán, Folgoso do Courel, Lugo",42.5477754,-7.2518208,Not classified
-295,Muiñeira de Poio,C major,6/8,0.1111111111111111,C1,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-296,Muiñeira de Poio,C major,6/8,0.125,C1,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-297,Muiñeira de Poio,d minor,6/8,0.4166666666666667,C1,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-298,Muiñeira de Poio,F major,6/8,0.125,C2,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-299,Muiñeira de Poio,F major,6/8,0.1842105263157894,C2,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-300,Muiñeira de Cesures,C major,6/8,0.5087719298245614,C1,"Cesures, Redondela, Pontevedra",42.284221,-8.6085992,Rias Baixas
-303,Muiñeira de Poio,C major,6/8,0.2857142857142857,C2,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-304,Muiñeira de Forcarei,C major,6/8,0.2236842105263158,C1,"Forcarei, Pontevedra",42.5900309,-8.3509643,Rias Baixas
-305,Muiñeira do Morrazo,F major,6/8,0.2345679012345679,C2,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-306,Muiñeira de Poio,C major,6/8,0.2054794520547945,C2,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-307,Muiñeira de Piornedo,C major,6/8,0.2209302325581395,C2,"Piornedo, Cervantes, Lugo",42.8566891,-6.8757849,Ancares
-308,Muiñeira de Lougares,F major,6/8,0.1447368421052631,C2,"Lougares, Mondariz, Pontevedra",42.2275701,-8.4097791,Rias Baixas
-310,Muiñeira de Ponteareas,C major,6/8,0.216867469879518,C2,"Ponteareas, Pontevedra",42.1740961,-8.5050963,Rias Baixas
-312,Muiñeira do Chao,C major,6/8,0.144927536231884,C1,"O Chao, O Barco de Valdeorras, Ourense",42.4189993,-6.9817358,Not classified
-316,Muiñeira de Lugo,C major,6/8,0.2258064516129032,C1,"Lugo, Lugo",43.0118437,-7.5565749,Not classified
-317,Muiñeira do Molete,C major,6/8,0.2985074626865671,C2,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-318,Muiñeira do Molete,C major,6/8,0.1063829787234042,C1,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-320,Muiñeira do Morrazo,C major,6/8,0.2916666666666667,C1,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-321,Muiñeira do Morrazo,C major,6/8,0.238095238095238,C2,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-322,Muiñeira do Morrazo,C major,6/8,0.3013698630136986,C2,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-323,Muiñeira de Oitavén,C major,6/8,0.6666666666666666,C2,Pontevedra,42.6075172,-8.4714942,Rias Baixas
-324,Muiñeira de Neaño,C major,6/8,0.08,C1,"Neaño, Bergantiños, A Coruña",43.2267544,-8.9146878,Costa do Morte
-325,Muiñeira de Laxe,C major,6/8,0.078125,C2,"Laxe, A Coruña",43.2218866,-9.0059491,Costa do Morte
-326,Muiñeira de Fonmaior,C major,6/8,0.1910112359550561,C2,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-328,Muiñeira de Ibias,F major,6/8,0.0426829268292682,C1,"Ibias, Asturies",43.0001546,-6.8218481309703325,Ancares
-329,Muiñeira de Ibias,F major,6/8,0.0543478260869565,C2,"Ibias, Asturies",43.0001546,-6.8218481309703325,Ancares
-330,Muiñeira de Valdeferreiros,C major,6/8,0.112,C1,"Valdeferreiros, Ibias, Asturies",43.0289283,-6.9803187,Ancares
-332,Muiñeira de Liñeiro,G major,6/8,0.1,C2,"Liñeiro, Muxía, A Coruña",43.1071193,-9.2181926,Costa do Morte
-335,Muiñeira,C major,6/8,0.040983606557377,C1,"Lugo, Lugo",43.0118437,-7.5565749,Not classified
-336,Muiñeira,C major,6/8,0.127906976744186,C1,"Portomarín, Lugo",42.808161,-7.6156139,Not classified
-338,Muiñeira de Curuxeiras,C major,6/8,0.0932203389830508,C2,"Curuxeiras, Arzúa, A Coruña",42.9976848,-8.2945749,A Coruña
-339,Muiñeira de Curuxeiras,C major,6/8,0.1020408163265306,C2,"Curuxeiras, Arzúa, A Coruña",42.9976848,-8.2945749,A Coruña
-341,Muiñeira de Ramelle,c minor,6/8,0.108695652173913,C2,"Ramelle, Friol, Lugo",43.0338813,-7.8263409,Not classified
-343,Muiñeira de Lobios,C major,6/8,0.2125,C2,"Lobios, Muiños, Ourense",41.9543796,-7.9847551,Portuguese Border
-345,Mariñas de Betanzos,C major,6/8,0.0163934426229508,C1,"Betanzos, A Coruña",43.2729197,-8.2218227,Not classified
-346,Mariñas de Betanzos,C major,6/8,0.0357142857142857,C1,"Betanzos, A Coruña",43.2729197,-8.2218227,Not classified
-347,Muiñeira de Albarellos,G major,6/8,0.1538461538461538,C1,"Albarellos, Monterrei, Ourense",41.95950055,-7.487299358479891,Portuguese Border
-348,Muiñeira de Carelle,a minor,9/8,0.2624434389140271,C1,"Carelle, Sobrado, A Coruña",43.02234945,-8.061086732766178,Not classified
-351,Muiñeira de Arantón,C major,6/8,0.0254237288135593,C1,"Arantón, Santa Comba, A Coruña",43.0522822,-8.8456308,Costa do Morte
-352,Muiñeira de Pradela,C major,6/8,0.1294964028776978,C2,"Pradela, Os Ancares, Lugo",42.8870412,-6.8960849,Ancares
-354,Muiñeira,C major,6/8,0.2631578947368421,C2,"A Seara de Montes, Cartelle, Ourense",42.2492308,-8.0688652,Not classified
-356,Muiñeira de Vilouchada,e minor,6/8,0.3214285714285714,C2,"Vilouchada, Trazo, A Coruña",42.99161155,-8.52822641429236,A Coruña
-357,Muiñeira de Señorans,C major,6/8,0.1307692307692307,C2,"Cereixo, A Estrada, Pontevedra",42.6829865,-8.4393524,Rias Baixas
-359,Muiñeira do Carballal,C major,6/8,0.1136363636363636,C1,"Carballal, Folgoso do Courel, Lugo",42.5907647,-7.2606608,Courel
-360,O Gaiteiro de Torbolosiño,C major,6/8,0.1940298507462686,C2,"Santa Eufemia, Folgoso do Courel, Lugo",42.5702336,-7.196084,Courel
-362,Muiñeira de Parada de Achas,c minor,6/8,0.1506849315068493,,"Parada de Achas, A Cañiza, Pontevedra",42.173403,-8.30473225,Rias Baixas
-381,Muiñeira,F major,6/8,0.1234567901234567,C1,"Ponte Caldelas, Pontevedra",42.3887558,-8.5022999,Rias Baixas
-386,Muiñeira de Chancelas,c minor,4/4,0.1111111111111111,C2,"Chancelas, Combarro, Pontevedra",42.4234102,-8.7193445,Rias Baixas
-387,Ruada de Allariz,C major,6/8,0.2207792207792207,C1,"Allariz, Ourense",42.1893161,-7.8019484,Portuguese Border
-391,Muiñeira de Redonda,C major,6/8,0.2,C1,"Redonda, Corcubión, A Coruña",42.9223684,-9.2034968,Costa do Morte
-392,Muiñeira de Abellá,C major,6/8,0.1123595505617977,C2,"Abellá, Frades, A Coruña",43.0824107,-8.306377955844088,A Coruña
-393,Muiñeira de Anceis,C major,6/8,0.2937062937062937,C2,"Anceis, Cambre, A Coruña",43.26814205,-8.358989154904453,A Coruña
-397,As Festas de Marnela,C major,6/8,0.6521739130434783,C2,"Marnela, Valdoviño, A Coruña",43.6286005,-8.1232505,Not classified
-399,Muiñeira de Manuel Dopazo,C major,6/8,0.0895522388059701,C2,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-400,Muiñeira,C major,6/8,0.1008403361344537,C2,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-401,Muiñeira de Riomao,C major,6/8,0.204225352112676,C2,"Riomao, A Veiga, Ourense",42.3436423,-7.0070384,Not classified
-402,Muiñeira de Riomao,C major,6/8,0.2083333333333333,C2,"Riomao, A Veiga, Ourense",42.3436423,-7.0070384,Not classified
-405,Muiñeira de Cangas,C major,6/8,0.0588235294117647,C1,"Cangas, Pontevedra",42.2647235,-8.7796487,Rias Baixas
-409,Muiñeira do Picato,C major,6/8,0.2222222222222222,C1,"O Picato, Outeiro de Rei, Lugo",43.1176607,-7.5395256,Not classified
-413,Muiñeira de Folgoso,a minor,6/8,0.5135135135135135,C1,"Folgoso do Courel, Lugo",42.5882486,-7.1925449,Courel
-414,Muiñeira de Ancadeira,C major,6/8,0.2376237623762376,C2,"A Fonsagrada, Lugo",43.1248311,-7.0676605,A Fonsagrada-Asturias
-416,Muiñeira do Hío,C major,6/8,0.1785714285714285,C1,"Hío, Cangas, Pontevedra",42.2728376,-8.841498,Rias Baixas
-418,Muiñeira de Tella,C major,6/8,0.0808080808080808,C1,"Os Teixois, Taramundi, Asturies",43.3412217,-7.0795128,A Fonsagrada-Asturias
-422,Muiñeira de Pontesampaio,c minor,6/8,0.1806451612903225,C1,"Pontesampaio, Pontevedra",42.34575475,-8.604383606147323,Rias Baixas
-423,Muiñeira do Saviñao,C major,6/8,0.1014492753623188,C1,"Estromil, O Saviñao, Lugo",42.644947650000006,-7.6394859466633855,Not classified
-424,Muiñeira das Nogais,C major,6/8,0.4117647058823529,C2,"As Nogais, Lugo",42.8089027,-7.1089861,Not classified
-427,Carballesa de Melide,C major,2/4,0.282051282051282,C2,"Melide, A Coruña",42.9145741,-8.0136139,Not classified
-428,Redonda de Bande,C major,6/8,0.6086956521739131,C1,"Bande, Ourense",42.0316148,-7.9749081,Portuguese Border
-429,Redonda de Bande,C major,6/8,0.6222222222222222,C2,"Bande, Ourense",42.0316148,-7.9749081,Portuguese Border
-430,Ribeirana de Poio,C major,2/4,0.0384615384615384,C1,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-431,Ribeirana de Poio,C major,2/4,0.050632911392405,C1,"Poio, Pontevedra",42.4332306,-8.6590994,Rias Baixas
-432,Muiñeira de Casamiro,C major,6/8,0.1118881118881118,C1,"Sambreixo, Parga, Lugo",43.1452907,-7.791647688176285,Not classified
-433,Muiñeira de Casamiro,C major,6/8,0.0714285714285714,C1,"Sambreixo, Parga, Lugo",43.1452907,-7.791647688176285,Not classified
-434,Carvalhesa,C major,2/4,0.5897435897435898,C2,"Moimenta de Vinhais, Bragança, Portugal",41.9508583,-6.9744425,Portuguese Border
-435,Ribeirana de Ventosela,G major,6/8,0.1986301369863013,C1,"Ventosela do Gateiro, Ribadavia, Ourense",42.2880044,-8.1429521,Not classified
-438,Carballesa do Carballiño,C major,2/4,0.3181818181818182,C2,"O Carballiño, Ourense",42.4300046,-8.0780481,Not classified
-441,Ribeirana de Villalba,C major,6/8,0.4909090909090909,C2,"Villalba, Lugo",43.6853833,-7.5128939,Not classified
-442,Ribeirana de Pontevedra,C major,6/8,0.0617283950617283,C2,"Pontevedra, Pontevedra",42.4318876,-8.6431592,Rias Baixas
-443,Ribeirana de Pontevedra,C major,6/8,0.0816326530612244,C1,"Pontevedra, Pontevedra",42.4318876,-8.6431592,Rias Baixas
-444,Ribeirana de Pontevedra,C major,6/8,0.0625,C2,"Pontevedra, Pontevedra",42.4318876,-8.6431592,Rias Baixas
-445,Ribeirana de Redondela,C major,6/8,0.2419354838709677,C1,"Redondela, Pontevedra",42.284221,-8.6085992,Rias Baixas
-446,Ribeirana de Pontevedra,C major,6/8,0.3888888888888889,C2,"Pontevedra, Pontevedra",42.4318876,-8.6431592,Rias Baixas
-449,Carballesa do Incio,C major,2/4,0.1269841269841269,C1,"O Incio, Lugo",42.66639975,-7.363224468403597,Courel
-450,Muiñeira de Vilarmide,C major,6/8,0.0920245398773006,C2,"Vilarmide, A Pontenova, Lugo",43.2789245,-7.1913498,A Fonsagrada-Asturias
-452,Danza Anterga de Lugo,C major,2/4,0.1818181818181818,C1,"Lugo, Lugo",43.0118437,-7.5565749,Not classified
-453,Carballesa do Incio,C major,2/4,0.1428571428571428,C1,"O Incio, Lugo",42.66639975,-7.363224468403597,Courel
+id,name,key,time_signature,ratio_negras_corcheas,muiñeira_type,lat,lon,count_seventh,seventh_ratio,location,classification
+1,Detrás das airas,C major,6/8,0.2465753424657534,C1,42.3074449,-7.9018209,16,0.1428571428571428,"As Airas, Ourense",Not classified
+2,Muiñeira de Quindous,C major,6/8,0.3125,C1,42.8556407,-6.9957933,4,0.0470588235294117,"Quindous, Cervantes, Lugo",Ancares
+3,Muiñeira de Quindous,C major,6/8,0.3076923076923077,C1,42.8556407,-6.9957933,2,0.0235294117647058,"Quindous, Cervantes, Lugo",Ancares
+5,Muiñeira de Monforte,C major,6/8,0.24,C1,42.5236693,-7.5096951,6,0.0483870967741935,"Monforte, Lugo",Not classified
+6,Muiñeira de Ventosa,C major,6/8,0.16,C1,42.7366955,-7.97617,6,0.0659340659340659,"Ventosa, Pontevedra",Not classified
+9,Muiñeira de Coia,F major,6/8,0.2188841201716738,C1,42.2182924,-8.7441073,29,0.102112676056338,"Coia, Vigo, Pontevedra",Rias Baixas
+16,Carballesa,C major,2/4,0.2307692307692307,C2,43.0074402,-8.1269242,0,0.0,"Boimorto, A Coruña",Not classified
+18,Muiñeira de Pastoriza,C major,6/8,0.0571428571428571,C1,43.3000026,-7.3511022,9,0.081081081081081,"Pastoriza, Lugo",A Fonsagrada-Asturias
+19,Muiñeira de Montrove,C major,6/8,0.3818181818181818,C2,43.2803751,-8.3297129,11,0.1294117647058823,"Montrove, Cambre, A Coruña",A Coruña
+20,Muiñeira de Eirís,C major,6/8,0.09375,C2,43.3426745,-8.395072,10,0.0709219858156028,"Eirís, A Coruña, A Coruña",A Coruña
+22,Moliñeira da Rogueira,C major,6/8,0.3820224719101123,C1,42.6088781,-7.1152898,8,0.064516129032258,"Rogueira, Lugo",Courel
+29,Muiñeira de Campolameiro,C major,6/8,0.0377358490566037,C1,42.5422912,-8.540772255060599,7,0.0636363636363636,"Campolameiro, Pontevedra",Rias Baixas
+30,Muiñeira de Campolameiro,C major,6/8,0.0380952380952381,C1,42.5422912,-8.540772255060599,8,0.0661157024793388,"Campolameiro, Pontevedra",Rias Baixas
+31,Muiñeira vella de Romeor,C major,6/8,0.09375,C1,42.6407659,-7.0946001,13,0.1238095238095238,"Romeor, Folgoso do Courel, Lugo",Courel
+32,Muiñeira vella de Romeor,C major,6/8,0.0377358490566037,C1,42.6407659,-7.0946001,7,0.0636363636363636,"Romeor, Folgoso do Courel, Lugo",Courel
+33,Muiñeira do Canizo,F major,6/8,1.1851851851851851,C2,42.0559598,-7.0906188,2,0.0327868852459016,"O Canizo, A Gudiña, Ourense",Portuguese Border
+36,Muiñeira de Arabexo,C major,6/8,0.1176470588235294,C1,43.06802085,-8.657671483625101,2,0.0246913580246913,"Arabexo, Val do Dubra, A Coruña",Costa do Morte
+38,Muiñeira de Trasmonte,C major,6/8,0.1865671641791045,C1,42.889798,-8.6786493,5,0.0303030303030303,"Trasmonte, Ames, A Coruña",Costa do Morte
+39,Muiñeira de Trasmonte,C major,6/8,0.1666666666666666,C1,42.889798,-8.6786493,4,0.0310077519379844,"Trasmonte, Ames, A Coruña",Costa do Morte
+42,Muiñeira de Boimoirto,C major,6/8,0.1195652173913043,C2,43.0074402,-8.1269242,3,0.029126213592233,"Boimorto, A Coruña",Not classified
+43,Muiñeira dos Ancares,C major,6/8,0.0421052631578947,C2,42.84444815,-7.05925848680706,8,0.0784313725490196,"Ancares, Lugo",Ancares
+44,Muiñeira de Meira,C major,6/8,0.1096774193548387,C1,43.2135737,-7.2936633,13,0.0734463276836158,"Meira, Lugo",A Fonsagrada-Asturias
+45,Muiñeira de Polín,C major,6/8,0.2297297297297297,C1,42.6118292,-7.1271841,8,0.0879120879120879,"Polín, Folgoso do Courel, Lugo",Courel
+47,Muiñeira de Vilaverde,a minor,6/8,0.2075471698113207,C1,42.9421319,-8.6453943,14,0.1052631578947368,"Piñeiro, Ames, A Coruña",Costa do Morte
+48,Muiñeira de Gonte,C major,6/8,0.1621621621621621,C1,42.9022821,-8.7599907,31,0.2384615384615384,"Gonte, Negreira, A Coruña",Costa do Morte
+49,Muiñeira de Gonte,C major,6/8,0.303030303030303,C1,42.9022821,-8.7599907,3,0.0337078651685393,"Gonte, Negreira, A Coruña",Costa do Morte
+50,Muiñeira de San Cosmade,c minor,6/8,0.0643274853801169,C1,43.1516767,-8.4209222,3,0.0348837209302325,"San Cosmade, Cerceda, A Coruña",A Coruña
+51,Muiñeira de Cabra,c minor,6/8,0.1625,C1,43.160960900000006,-8.48117137776195,0,0.0,"Queixas, Cerceda, A Coruña",A Coruña
+52,Muiñeira de Pol,C major,6/8,0.1294117647058823,C1,43.14281665,-7.321889132285174,0,0.0,"Pol, Lugo",A Fonsagrada-Asturias
+54,Muiñeira de Santa Cristina de Marcelle,a minor,6/8,0.1205673758865248,C2,42.987517800000006,-8.75081135674603,12,0.125,"Santa Cristina de Marcelle, A Baña, A Coruña",Costa do Morte
+55,Muiñeira de Oirós,C major,6/8,0.1463414634146341,C1,42.7616655,-8.1874096,33,0.191860465116279,"Oirós, Vila de Cruces, Pontevedra",Not classified
+66,Muiñeira de Corme,C major,6/8,0.1475409836065573,C1,43.2649815,-8.9628988,10,0.1063829787234042,"Corme, Ponteceso, A Coruña",Costa do Morte
+67,Muiñeira de Corme,C major,6/8,0.0526315789473684,C1,43.2649815,-8.9628988,3,0.03,"Corme, Ponteceso, A Coruña",Costa do Morte
+68,Muiñeira de Santiago de Miraz,C major,6/8,0.4189189189189189,C1,43.1134947,-7.8414911,3,0.03,"Santiago de Miraz, Friol, Lugo",Not classified
+69,Muiñeira de Santiago de Miraz,C major,6/8,0.2906976744186046,C1,43.1134947,-7.8414911,0,0.0,"Santiago de Miraz, Friol, Lugo",Not classified
+70,Muiñeira de Sendelle,C major,6/8,0.1025641025641025,C1,42.9853899,-8.1547395,0,0.0,"Sendelle, Boimorto, A Coruña",Not classified
+71,Muiñeira de Sendelle,C major,6/8,0.073170731707317,C1,43.3709703,-8.3959425,4,0.0444444444444444,"Sendelle, Biomorto, A Coruña",Not classified
+73,Muiñeira de Monterrei,a minor,6/8,0.2698412698412698,C1,41.9467657,-7.4491474,11,0.1195652173913043,"Monterrei, Ourense",Portuguese Border
+74,Muiñeira de Monterrei,a minor,6/8,0.2131147540983606,C1,41.9467657,-7.4491474,13,0.1511627906976744,"Monterrei, Ourense",Portuguese Border
+75,Muiñeira das Nogais,C major,6/8,0.1142857142857142,C1,42.8089027,-7.1089861,13,0.1585365853658536,"As Nogais, Lugo",Not classified
+76,Carballesa,C major,2/4,0.1587301587301587,C2,42.4300046,-8.0780481,8,0.0952380952380952,"O Carballiño, Ourense",Not classified
+77,Muiñeira de Cercedo,C major,6/8,0.1616766467065868,C2,42.5325107,-8.392381776641137,6,0.0821917808219178,"Cercedo, Pontevedra",Rias Baixas
+78,Muiñeira de Eiriz,C major,6/8,0.4680851063829787,C2,42.5894237,-7.2220799,27,0.135678391959799,"Eiriz, Folgoso do Courel, Lugo",Courel
+81,Muiñeira de Pazos de Borbén,C major,6/8,1.9047619047619049,C2,42.2849584,-8.530047868320796,14,0.1627906976744186,"Pazos de Borbén, Pontevedra",Rias Baixas
+82,Muiñeira de Borreiro,C major,6/8,0.1333333333333333,C2,43.2104427,-8.2903237,3,0.0379746835443038,"Borreiro, Abegondo, A Coruña",A Coruña
+83,Muiñeira de Borreiro,C major,6/8,0.144578313253012,C2,43.2104427,-8.2903237,1,0.0153846153846153,"Borreiro, Abegondo, A Coruña",A Coruña
+84,Muiñeira de Burón,C major,6/8,0.2076923076923077,C1,43.0244821,-5.0514632,9,0.088235294117647,"Burón, León",Not classified
+85,Muiñeira de Burón,C major,6/8,0.1769230769230769,C1,43.0244821,-5.0514632,8,0.0842105263157894,"Burón, León",Not classified
+89,Muiñeira de Santos,C major,6/8,0.0789473684210526,C2,43.1248311,-7.0676605,12,0.0759493670886076,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+90,Montañesa de Lugo,C major,6/8,0.1929824561403508,C1,43.0118437,-7.5565749,11,0.0718954248366013,"Lugo, Lugo",Not classified
+91,Montañesa de Lugo,C major,6/8,0.2123893805309734,C1,43.0462247,-7.4739921,40,0.0886917960088691,Lugo,Not classified
+92,Muiñeira de San Román de Cervantes,C major,6/8,0.3068181818181818,C1,42.853731,-7.0549167,5,0.0367647058823529,"San Román, Cervantes, Lugo",Ancares
+93,Muiñeira,C major,6/8,0.3333333333333333,C2,42.9644848,-6.95678939929841,7,0.0510948905109489,"Navia de Suarna, Lugo",Ancares
+96,Muiñeira,C major,6/8,0.1276595744680851,C1,43.2789245,-7.1913498,0,0.0,"Vilarmide, A Pontenova, Lugo",A Fonsagrada-Asturias
+97,Muiñeira,C major,6/8,0.4126984126984127,C1,43.2789245,-7.1913498,3,0.0241935483870967,"Vilarmide, A Pontenova, Lugo",A Fonsagrada-Asturias
+98,Muiñeira,F major,6/8,0.75,C1,42.2647235,-8.7796487,9,0.0833333333333333,"Cangas, Pontevedra",Rias Baixas
+99,Muiñeira,F major,6/8,0.75,C1,42.2903427,-8.806088,7,0.0777777777777777,"Aldán, Cangas, Pontevedra",Rias Baixas
+100,Muiñeira de Aldán,F major,6/8,0.2708333333333333,C2,42.2903427,-8.806088,8,0.0930232558139534,"Aldán, Cangas, Pontevedra",Rias Baixas
+106,Muiñeira de Casadelas,C major,6/8,0.0531914893617021,C1,43.1450259,-8.5763411,6,0.0697674418604651,"Lema, Baldaio, A Coruña",Not classified
+107,Muiñeira de Calvos,a minor,6/8,1.7,C2,41.9444089,-7.8968131,13,0.1065573770491803,"Calvos, Calvos de Randín, Ourense",Portuguese Border
+108,Muiñeira de Trarigo,C major,6/8,0.1780821917808219,C2,42.0383776,-7.904845,9,0.0909090909090909,"Trarigo, Bande, Ourense",Portuguese Border
+109,Muiñeira de Lucas,C major,6/8,0.365079365079365,C2,43.1452907,-7.791647688176285,0,0.0,"Sambreixo, Parga, Lugo",Not classified
+110,Muiñeira de Leiloio,C major,6/8,0.088,C1,43.2667103,-8.758421443297864,7,0.0760869565217391,"Leiloio, Malpica, A Coruña",Costa do Morte
+112,Muiñeira Vella de Mórdomo,C major,6/8,0.0204081632653061,C1,43.1806055,-9.04681986216078,6,0.0689655172413793,"Traba, Laxe, A Coruña",Costa do Morte
+113,Muiñeira Vella de Mórdomo,C major,6/8,0.0526315789473684,C1,43.1806055,-9.04681986216078,7,0.05,"Traba, Laxe, A Coruña",Costa do Morte
+116,Muiñeira de Carballo,C major,6/8,0.1234567901234567,C2,43.2134123,-8.6891286,10,0.0641025641025641,"Carballo, A Coruña",Costa do Morte
+117,Muiñeira de Grixalba,C major,6/8,0.2153846153846154,C1,43.0404996,-8.02238,11,0.0753424657534246,"Grixalba, Sobrado dos Monxes, A Coruña",Not classified
+118,Muiñeira de Vilamaior,C major,6/8,0.238095238095238,C2,43.11470785,-8.331495821373032,5,0.0549450549450549,"Vilamaior, Ordes, A Coruña",A Coruña
+119,Muiñeira de Cances,a minor,6/8,0.127906976744186,C1,43.24375135,-8.748642556145336,0,0.0,"Cances, Carballo, A Coruña",Costa do Morte
+121,Muiñeira de Florencio,F major,6/8,0.1529411764705882,C1,43.1248311,-7.0676605,2,0.025,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+122,Muiñeira de Rodís,C major,6/8,0.296875,C1,43.6775723,-7.577245,0,0.0,"Celeiro, Lugo",Not classified
+123,Muliñeira de Romeor,C major,6/8,0.0744680851063829,C1,42.6407659,-7.0946001,6,0.0612244897959183,"Romeor, Folgoso do Courel, Lugo",Courel
+124,Muiñeira de Romeor,C major,6/8,0.057471264367816,C1,42.6407659,-7.0946001,10,0.1204819277108433,"Romeor, Folgoso do Courel, Lugo",Courel
+126,Muiñeira de Oliveira,C major,6/8,0.96,,42.1822609,-8.4523004,2,0.0194174757281553,"Santiago de Oliveira, Ponteareas, Pontevedra",Rias Baixas
+128,Muiñeira de Buscás,C major,6/8,0.0588235294117647,C2,43.1015063,-8.374827040699586,2,0.0212765957446808,"Buscás, Ordes, A Coruña",A Coruña
+130,Muiñeira da Fonsagrada,C major,6/8,0.1195652173913043,C1,43.1248311,-7.0676605,4,0.04,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+131,Muiñeira da Fonsagrada,C major,6/8,0.1504424778761062,C1,43.1248311,-7.0676605,14,0.1505376344086021,"Pobra de Burón, A Fonsagrada, Lugo",A Fonsagrada-Asturias
+134,Muiñeira de Umoso,C major,6/8,0.1693548387096774,C1,42.1334597,-7.0644252,6,0.058252427184466,"Umoso, Viana do Bolo, Ourense",Portuguese Border
+135,Muiñeira de Ponte Maceira,C major,6/8,0.0,C2,42.905445,-8.6962309,4,0.0294117647058823,"Ponte Maceira, Negreira, A Coruña",Costa do Morte
+136,Muiñeira de Calvos de Randín,C major,6/8,0.1809523809523809,C1,41.92502975,-7.859098930350559,11,0.0758620689655172,"Calvos de Randín, Ourense ",Portuguese Border
+137,Muiñeira de Aranga,C major,6/8,0.2162162162162162,C1,43.2340593,-8.0160606,7,0.0813953488372093,"Aranga, A Coruña",Not classified
+139,Muiñeira de Santiso,C major,6/8,0.021505376344086,C2,42.8460891,-8.03872,0,0.0,"Santiso, A Coruña",Not classified
+140,Muiñeira de Xinzo,F major,6/8,0.1019108280254777,C1,42.0637882,-7.7245498,0,0.0,"Xinzo de Limia, Ourense",Portuguese Border
+141,Muiñeira de Forcarei,G major,6/8,0.2266666666666666,C1,42.5900309,-8.3509643,7,0.0707070707070707,"Forcarei, Pontevedra",Rias Baixas
+143,Muiñeira da Fonsagrada,C major,6/8,0.1176470588235294,C1,43.1248311,-7.0676605,20,0.1149425287356321,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+144,Muiñeira de Riocereixa,C major,6/8,0.2238805970149253,C1,42.6423216,-7.0565107,0,0.0,"Riocereixa, Pedrafita do Cebreiro, Lugo",Courel
+145,Muiñeira de Gulpilleira,C major,6/8,0.1075949367088607,C1,43.1183311,-7.1824405,15,0.0539568345323741,"Gulpilleiras, A Fonsagrada, Lugo",A Fonsagrada-Asturias
+146,Muiñeira de Pacios de Mourisco,C major,6/8,0.193103448275862,C1,43.1248311,-7.0676605,2,0.0238095238095238,"Pacios de Mourisco, A Fonsagrada, Lugo",A Fonsagrada-Asturias
+147,Muiñeira de Teixeira,C major,6/8,0.1294117647058823,C1,42.5996975,-7.3163647,20,0.1104972375690607,"Teixeira, Pobra de Brollón, Lugo",Courel
+148,Muiñeira de Vilar de Conforto,C major,6/8,0.1494252873563218,C2,43.3604703,-7.1525053712882105,8,0.0457142857142857,"Vilar de Conforto, A Pontenova, Lugo",A Fonsagrada-Asturias
+151,Muiñeira de Ramiro,C major,6/8,0.1241830065359477,C1,43.1452907,-7.791647688176285,7,0.0721649484536082,"Sambreixo, Parga, Lugo",Not classified
+160,A Cruz de Lobeira,F major,6/8,0.3472222222222222,C1,42.5632279,-8.7629369,0,0.0,"Lobeira, Vilanova de Arousa, Pontevedra",Rias Baixas
+161,Muiñeira de Desiderio,C major,6/8,0.1176470588235294,C1,43.2789245,-7.1913498,9,0.0489130434782608,"Vilarmide, A Pontenova, Lugo",A Fonsagrada-Asturias
+162,Muiñeira,C major,6/8,0.2547169811320754,C2,42.9644848,-6.95678939929841,9,0.0927835051546391,"Navia de Suarna, Lugo",Ancares
+164,Ribeirana,C major,6/8,0.1333333333333333,C1,43.076756,-8.407816,7,0.0454545454545454,"Ordes, A Coruña",A Coruña
+165,Danza de Cambados,C major,6/8,0.0989010989010989,C2,42.51439,-8.8138414,1,0.0074626865671641,"Cambados, Pontevedra",Rias Baixas
+166,Danza de Cambados,a minor,6/8,0.1264367816091954,C2,42.51439,-8.8138414,16,0.1568627450980392,"Cambados, Pontevedra",Rias Baixas
+167,Muiñeira de Lugo,C major,6/8,0.1632653061224489,C2,43.0118437,-7.5565749,12,0.12,"Lugo, Lugo",Not classified
+168,Muiñeira de Cangas de Foz,C major,6/8,0.1666666666666666,C1,43.6260123,-7.333295,20,0.2040816326530612,"Cangas de Foz, Foz, Lugo",Not classified
+170,Muiñeira de Oza dos Ríos,a minor,6/8,0.2206896551724138,C2,43.2150697,-8.1859732,1,0.0163934426229508,"Oza dos Ríos, Betanzos, A Coruña",Not classified
+171,Muiñeira de Navia,C major,6/8,0.1298701298701298,C2,42.9644848,-6.95678939929841,4,0.0408163265306122,"Navia de Suarna, Lugo",Ancares
+172,Muiñeira de Piadela,C major,6/8,0.0695970695970696,C1,43.2729197,-8.2218227,8,0.0446927374301676,"Santo Estevo de Piadela, Betanzos, A Coruña",Not classified
+173,Ribeirana de Pontevedra,C major,6/8,0.0625,C2,42.4318876,-8.6431592,9,0.0486486486486486,"Pontevedra, Pontevedra",Rias Baixas
+175,Muiñeira de Castrelo,C major,6/8,0.2093023255813953,C1,42.4793217,-8.8129544,31,0.1047297297297297,"Castrelo, Cambados, Pontevedra",Rias Baixas
+184,Muiñeira de Redondela,C major,6/8,0.0941176470588235,C1,42.284221,-8.6085992,2,0.0235294117647058,"Redondela, Pontevedra",Rias Baixas
+185,Muiñeira de Berdoias,C major,6/8,0.3235294117647059,C1,43.0581867,-9.0859542,9,0.0545454545454545,"Berdoias, Vimianzo, A Coruña",Costa do Morte
+186,Muiñeira,C major,6/8,0.0227272727272727,C2,42.7937228,-8.1699391,12,0.1263157894736842,"Santiso, Vila de Cruces, Pontevedra",Not classified
+187,Muiñeira de Abellá,C major,6/8,0.1707317073170731,C1,43.0824107,-8.306377955844088,5,0.0555555555555555,"Abellá, Frades, A Coruña",A Coruña
+189,Muiñeira de Outeiro,C major,6/8,0.1309523809523809,C1,42.918878,-8.2431648,7,0.0744680851063829,"Outeiro, Arzúa, A Coruña",Not classified
+193,Muiñeira da Picota,C major,6/8,0.2281879194630872,C2,42.9381195,-8.9919635,7,0.0729166666666666,"Picota, Mazaricos, A Coruña",Costa do Morte
+194,Muiñeira de Entreambasaugas,C major,6/8,0.2183908045977011,C1,42.8890081,-7.69235,0,0.0,"Entreambasaugas, Guntín de Pallares, Lugo",Not classified
+196,Muiñeira de Cernades,a minor,6/8,0.2105263157894736,C1,42.6075172,-8.4714942,18,0.0957446808510638,Pontevedra,Rias Baixas
+200,Muiñeira Vella de Dombate,C major,6/8,0.2597402597402597,C1,43.1870604,-8.9714237,10,0.0892857142857142,"Dombate, A Coruña",Costa do Morte
+202,Muiñeira,C major,6/8,0.1629213483146067,C2,42.4318876,-8.6431592,0,0.0,"Pontevedra, Pontevedra",Rias Baixas
+203,Muiñeira do Condado,C major,6/8,0.1063829787234042,C1,42.17671145,-8.488781069275163,7,0.0721649484536082,"O Condado, Pontevedra",Rias Baixas
+204,Muiñeira de Lavadores,F major,6/8,0.1052631578947368,C2,42.2288566,-8.6911053,25,0.1196172248803827,"Lavadores, Vigo, Pontevedra",Rias Baixas
+205,Muiñeira de Albite,C major,6/8,0.1309523809523809,C2,42.489646,-8.2921856,5,0.048076923076923,"Albite, Beariz, Ourense",Rias Baixas
+206,Muiñeira Vella de Alvite,C major,6/8,0.1494252873563218,C2,43.099699,-8.1183034,9,0.0608108108108108,"Alvite, Curtis, A Coruña",Not classified
+212,Muiñeira de Cabana,c minor,6/8,0.1349206349206349,C1,43.1433392,-9.0940115,2,0.0210526315789473,"Cabana, A Coruña",Costa do Morte
+216,Muiñeira de Lañas,C major,6/8,0.1153846153846153,C1,43.2906128,-8.5303258,5,0.0485436893203883,"Lañas, Arteixo, A Coruña",A Coruña
+219,Muiñeira de Chantada,C major,6/8,0.3888888888888889,C2,42.6089783,-7.8218597,0,0.0,"Chantada, Lugo",Not classified
+222,Muiñeira de Santaia de Moar,C major,6/8,0.1481481481481481,C1,43.02522075,-8.316061712950571,10,0.0689655172413793,"Moar, Frades, A Coruña",A Coruña
+223,Muiñeira de Rubiás,C major,6/8,0.3020833333333333,C1,41.9086858,-7.8331329,11,0.0718954248366013,"Rubiás, Calvos de Randín, Ourense",Portuguese Border
+224,Muiñeira de Viceso,C major,6/8,0.06,C1,42.8680088,-8.737978,1,0.010752688172043,"Viceso, Brión, A Coruña",Costa do Morte
+225,Muiñeira das Mariñas,C major,6/8,0.1088435374149659,C2,43.3709703,-8.3959425,8,0.0597014925373134,A Coruña,Not classified
+226,Muiñeira,G major,6/8,0.198019801980198,C1,43.1248311,-7.0676605,12,0.1132075471698113,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+232,Muiñeira de Riotorto,C major,6/8,0.196078431372549,C2,43.3248159,-7.273209287981473,27,0.1421052631578947,"Riotorto, Lugo",A Fonsagrada-Asturias
+234,Muiñeira de Meiraos,a minor,6/8,0.1857142857142857,C1,43.0462247,-7.4739921,0,0.0,"Meiraos, Folgoso do Caurel, Lugo",Not classified
+235,Muiñeira de Freixido,C major,6/8,0.1479289940828402,C1,42.3537797,-7.1710087,7,0.0804597701149425,"Freixido, Larouco, Ourense",Not classified
+236,Muiñeira,F major,6/8,1.3902439024390243,C2,43.2134123,-8.6891286,10,0.1149425287356321,"Lugariño de Imende, Carballo, A Coruña",Costa do Morte
+237,Muiñeira de Buscás,C major,6/8,0.2985074626865671,C2,43.1015063,-8.374827040699586,10,0.0490196078431372,"Buscás, Ordes, A Coruña",A Coruña
+238,Muiñeira,c minor,6/8,2.136363636363636,C2,42.4750564,-8.3274493,12,0.12,"Xirazga, Beariz, Ourense",Rias Baixas
+239,Muiñeira dos gaiteiros de Sar,C major,6/8,0.1521739130434782,C2,43.3709703,-8.3959425,0,0.0,A Coruña,Not classified
+240,Muiñeira de Bergantiños,C major,6/8,0.2322274881516587,C2,43.3709703,-8.3959425,0,0.0,A Coruña,Not classified
+241,Muiñeira da Ponte de Outeiro,C major,6/8,0.1235955056179775,C1,43.3000026,-7.3511022,0,0.0,"San Martín de Corbelle, A Pastoriza, Lugo",A Fonsagrada-Asturias
+242,Muiñeira de Ferreira de Pantón,C major,6/8,0.4210526315789473,C1,42.50859375,-7.6423645799426865,17,0.0639097744360902,"San Iago de Castillón, Pantón, Lugo",Not classified
+243,Muiñeira de Vilantime,C major,6/8,0.1645569620253164,C1,42.9279921,-8.1605667,8,0.08,"Arzúa, A Coruña",Not classified
+244,Muiñeira do Castrillón,C major,6/8,0.3161764705882353,C1,43.3395116,-7.3297908,0,0.0,"Bretoña, Pastoriza, Lugo",A Fonsagrada-Asturias
+245,Muiñeira de Castrillón,C major,6/8,0.3883495145631068,,43.3395116,-7.3297908,9,0.0957446808510638,"Bretoña, A Pastoriza, Lugo",A Fonsagrada-Asturias
+246,Muiñeira de Guitizá,C major,6/8,0.5283018867924528,C2,43.03607855,-8.01822383178772,11,0.0614525139664804,"A Porta, O Sobrado, A Coruña",Not classified
+249,Muiñeira do Areal,C major,6/8,0.134453781512605,C1,43.0462247,-7.4739921,11,0.0763888888888889,Lugo,Not classified
+250,Muiñeira do Areal,C major,6/8,0.2095238095238095,C1,43.0462247,-7.4739921,3,0.037037037037037,Lugo,Not classified
+251,Muiñeira de Mazaricos,F major,6/8,0.058252427184466,C2,42.9364002,-8.9904506,18,0.1285714285714285,"Mazaricos, A Coruña",Costa do Morte
+255,Muiñeira de Melide,d minor,6/8,0.08,C2,42.9145741,-8.0136139,14,0.1068702290076335,"Melide, A Coruña",Not classified
+256,Muiñeira de Veiga de Forcas,f minor,6/8,0.1643835616438356,C2,42.6879835,-7.0831654,8,0.0727272727272727,"Veiga de Forcas, Lugo, Lugo",Courel
+259,Muiñeira de Cangas,C major,6/8,0.1794871794871795,C1,42.2647235,-8.7796487,2,0.0185185185185185,"Cangas, Pontevedra",Rias Baixas
+260,Muiñeira da Fonsagrada,C major,6/8,0.0814814814814814,C2,43.1248311,-7.0676605,0,0.0,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+261,Muiñeira,C major,6/8,0.352112676056338,C2,41.9999255,-7.6937387,3,0.0326086956521739,"Laroá, A Limia, Ourense",Portuguese Border
+263,Muiñeira de Cartelle,C major,6/8,0.3214285714285714,C2,42.2492308,-8.0688652,17,0.1164383561643835,"Cartelle, Ourense",Not classified
+264,Muiñeira de Monforte,C major,6/8,0.3584905660377358,C2,42.5236693,-7.5096951,3,0.03125,"Monforte de Lemos, Lugo",Not classified
+265,Maruxa,C major,6/8,0.1958762886597938,C2,43.3709703,-8.3959425,4,0.0493827160493827,"Coruña, A Coruña",Not classified
+269,Muineira de Garceiras,C major,6/8,0.0941176470588235,C2,42.9284809,-8.0077901,5,0.0342465753424657,"Garceiras, Melide, A Coruña",Not classified
+270,Muiñeira de Sexo,d minor,6/8,0.3559322033898305,C2,42.6075172,-8.4714942,6,0.05,Pontevedra,Rias Baixas
+271,Muiñeira de Santa Maria de Oleiros,C major,6/8,0.2795698924731182,C2,43.3330642,-8.3170764,2,0.0104166666666666,"Santa Maria de Oleiros, Oleiros, A Coruña",A Coruña
+273,Muiñeira de Ourense,C major,6/8,0.0384615384615384,C1,42.3436415,-7.8674242,0,0.0,"Ourense, Ourense",Not classified
+274,Muiñeira de Mourente,C major,6/8,0.4477611940298507,C2,42.4390311,-8.6141785,4,0.0336134453781512,"Mourente, Pontevedra, Pontevedra",Rias Baixas
+275,Muiñeira de Cangas,C major,6/8,0.4333333333333333,C2,42.2647235,-8.7796487,10,0.091743119266055,"Cangas, Pontevedra",Rias Baixas
+276,Muiñeira de Cangas,C major,6/8,0.1764705882352941,C2,42.2647235,-8.7796487,3,0.0303030303030303,"Cangas, Pontevedra",Rias Baixas
+277,Muiñeira de Cangas,C major,6/8,0.524390243902439,C1,42.2647235,-8.7796487,6,0.088235294117647,"Cangas, Pontevedra",Rias Baixas
+278,Muiñeira de Cangas,C major,6/8,0.0943396226415094,C1,42.2647235,-8.7796487,12,0.1153846153846153,"Cangas, Pontevedra",Rias Baixas
+280,Muiñeira de Poio,C major,6/8,0.2181818181818181,C1,42.4332306,-8.6590994,14,0.0939597315436241,"Poio, Pontevedra",Rias Baixas
+282,Muiñeira de Vilanova,C major,6/8,0.1212121212121212,C2,42.592833,-8.1135799,10,0.1204819277108433,"Vilanova, Pontevedra",Not classified
+284,Muiñeira do Morrazo,C major,6/8,0.2121212121212121,C2,42.6075172,-8.4714942,9,0.108433734939759,Pontevedra,Rias Baixas
+285,Muiñeira de Muradelle,C major,6/8,0.180722891566265,C1,42.6371171,-7.8232962,8,0.0714285714285714,"Muradelle, Chantada, Lugo",Not classified
+286,Muiñeira de Poio,C major,6/8,0.1590909090909091,C1,42.4332306,-8.6590994,6,0.0697674418604651,"Poio, Pontevedra",Rias Baixas
+287,Muiñeira de Negros,C major,6/8,0.3444444444444444,C1,42.2598627,-8.6216602,9,0.0918367346938775,"Negros, Redondela, Pontevedra",Rias Baixas
+288,Muiñeira de Visma,C major,6/8,0.1636363636363636,C2,43.3672536,-8.4359104,1,0.0091743119266055,"Visma, A Coruña",Not classified
+292,Muiñeira de Froxán,C major,6/8,0.0859375,C1,42.5477754,-7.2518208,5,0.040983606557377,"Froxán, Folgoso do Courel, Lugo",Not classified
+293,Muiñeira de Froxán,C major,6/8,0.0962962962962963,C1,42.5477754,-7.2518208,3,0.0222222222222222,"Froxán, Folgoso do Courel, Lugo",Not classified
+294,Muiñeira de Froxán,C major,6/8,0.0859375,C1,42.5477754,-7.2518208,11,0.0769230769230769,"Froxán, Folgoso do Courel, Lugo",Not classified
+295,Muiñeira de Poio,C major,6/8,0.1111111111111111,C1,42.4332306,-8.6590994,12,0.08,"Poio, Pontevedra",Rias Baixas
+296,Muiñeira de Poio,C major,6/8,0.125,C1,42.4332306,-8.6590994,10,0.0699300699300699,"Poio, Pontevedra",Rias Baixas
+297,Muiñeira de Poio,d minor,6/8,0.4166666666666667,C1,42.4332306,-8.6590994,6,0.0625,"Poio, Pontevedra",Rias Baixas
+298,Muiñeira de Poio,F major,6/8,0.125,C2,42.4332306,-8.6590994,5,0.0649350649350649,"Poio, Pontevedra",Rias Baixas
+299,Muiñeira de Poio,F major,6/8,0.1842105263157894,C2,42.4332306,-8.6590994,11,0.1594202898550724,"Poio, Pontevedra",Rias Baixas
+300,Muiñeira de Cesures,C major,6/8,0.5087719298245614,C1,42.284221,-8.6085992,19,0.1532258064516129,"Cesures, Redondela, Pontevedra",Rias Baixas
+303,Muiñeira de Poio,C major,6/8,0.2857142857142857,C2,42.4332306,-8.6590994,16,0.1415929203539823,"Poio, Pontevedra",Rias Baixas
+304,Muiñeira de Forcarei,C major,6/8,0.2236842105263158,C1,42.5900309,-8.3509643,5,0.057471264367816,"Forcarei, Pontevedra",Rias Baixas
+305,Muiñeira do Morrazo,F major,6/8,0.2345679012345679,C2,42.6075172,-8.4714942,2,0.0303030303030303,Pontevedra,Rias Baixas
+306,Muiñeira de Poio,C major,6/8,0.2054794520547945,C2,42.4332306,-8.6590994,4,0.0416666666666666,"Poio, Pontevedra",Rias Baixas
+307,Muiñeira de Piornedo,C major,6/8,0.2209302325581395,C2,42.8566891,-6.8757849,17,0.1440677966101695,"Piornedo, Cervantes, Lugo",Ancares
+308,Muiñeira de Lougares,F major,6/8,0.1447368421052631,C2,42.2275701,-8.4097791,2,0.021505376344086,"Lougares, Mondariz, Pontevedra",Rias Baixas
+310,Muiñeira de Ponteareas,C major,6/8,0.216867469879518,C2,42.1740961,-8.5050963,14,0.1021897810218978,"Ponteareas, Pontevedra",Rias Baixas
+312,Muiñeira do Chao,C major,6/8,0.144927536231884,C1,42.4189993,-6.9817358,20,0.2150537634408602,"O Chao, O Barco de Valdeorras, Ourense",Not classified
+316,Muiñeira de Lugo,C major,6/8,0.2258064516129032,C1,43.0118437,-7.5565749,3,0.0241935483870967,"Lugo, Lugo",Not classified
+317,Muiñeira do Molete,C major,6/8,0.2985074626865671,C2,42.6075172,-8.4714942,0,0.0,Pontevedra,Rias Baixas
+318,Muiñeira do Molete,C major,6/8,0.1063829787234042,C1,42.6075172,-8.4714942,8,0.0963855421686747,Pontevedra,Rias Baixas
+320,Muiñeira do Morrazo,C major,6/8,0.2916666666666667,C1,42.6075172,-8.4714942,5,0.0568181818181818,Pontevedra,Rias Baixas
+321,Muiñeira do Morrazo,C major,6/8,0.238095238095238,C2,42.6075172,-8.4714942,10,0.0961538461538461,Pontevedra,Rias Baixas
+322,Muiñeira do Morrazo,C major,6/8,0.3013698630136986,C2,42.6075172,-8.4714942,3,0.0297029702970297,Pontevedra,Rias Baixas
+323,Muiñeira de Oitavén,C major,6/8,0.6666666666666666,C2,42.6075172,-8.4714942,5,0.0357142857142857,Pontevedra,Rias Baixas
+324,Muiñeira de Neaño,C major,6/8,0.08,C1,43.2267544,-8.9146878,2,0.02,"Neaño, Bergantiños, A Coruña",Costa do Morte
+325,Muiñeira de Laxe,C major,6/8,0.078125,C2,43.2218866,-9.0059491,5,0.0641025641025641,"Laxe, A Coruña",Costa do Morte
+326,Muiñeira de Fonmaior,C major,6/8,0.1910112359550561,C2,43.1248311,-7.0676605,15,0.1079136690647482,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+328,Muiñeira de Ibias,F major,6/8,0.0426829268292682,C1,43.0001546,-6.8218481309703325,14,0.0985915492957746,"Ibias, Asturies",Ancares
+329,Muiñeira de Ibias,F major,6/8,0.0543478260869565,C2,43.0001546,-6.8218481309703325,10,0.0934579439252336,"Ibias, Asturies",Ancares
+330,Muiñeira de Valdeferreiros,C major,6/8,0.112,C1,43.0289283,-6.9803187,24,0.1403508771929824,"Valdeferreiros, Ibias, Asturies",Ancares
+332,Muiñeira de Liñeiro,G major,6/8,0.1,C2,43.1071193,-9.2181926,30,0.1546391752577319,"Liñeiro, Muxía, A Coruña",Costa do Morte
+335,Muiñeira,C major,6/8,0.040983606557377,C1,43.0118437,-7.5565749,2,0.0141843971631205,"Lugo, Lugo",Not classified
+336,Muiñeira,C major,6/8,0.127906976744186,C1,42.808161,-7.6156139,0,0.0,"Portomarín, Lugo",Not classified
+338,Muiñeira de Curuxeiras,C major,6/8,0.0932203389830508,C2,42.9976848,-8.2945749,6,0.0472440944881889,"Curuxeiras, Arzúa, A Coruña",A Coruña
+339,Muiñeira de Curuxeiras,C major,6/8,0.1020408163265306,C2,42.9976848,-8.2945749,6,0.0606060606060606,"Curuxeiras, Arzúa, A Coruña",A Coruña
+341,Muiñeira de Ramelle,c minor,6/8,0.108695652173913,C2,43.0338813,-7.8263409,9,0.0647482014388489,"Ramelle, Friol, Lugo",Not classified
+343,Muiñeira de Lobios,C major,6/8,0.2125,C2,41.9543796,-7.9847551,8,0.0695652173913043,"Lobios, Muiños, Ourense",Portuguese Border
+345,Mariñas de Betanzos,C major,6/8,0.0163934426229508,C1,43.2729197,-8.2218227,0,0.0,"Betanzos, A Coruña",Not classified
+346,Mariñas de Betanzos,C major,6/8,0.0357142857142857,C1,43.2729197,-8.2218227,6,0.0588235294117647,"Betanzos, A Coruña",Not classified
+347,Muiñeira de Albarellos,G major,6/8,0.1538461538461538,C1,41.95950055,-7.487299358479891,17,0.0871794871794871,"Albarellos, Monterrei, Ourense",Portuguese Border
+348,Muiñeira de Carelle,a minor,9/8,0.2624434389140271,C1,43.02234945,-8.061086732766178,15,0.0967741935483871,"Carelle, Sobrado, A Coruña",Not classified
+351,Muiñeira de Arantón,C major,6/8,0.0254237288135593,C1,43.0522822,-8.8456308,0,0.0,"Arantón, Santa Comba, A Coruña",Costa do Morte
+352,Muiñeira de Pradela,C major,6/8,0.1294964028776978,C2,42.8870412,-6.8960849,36,0.1290322580645161,"Pradela, Os Ancares, Lugo",Ancares
+354,Muiñeira,C major,6/8,0.2631578947368421,C2,42.2492308,-8.0688652,8,0.0634920634920634,"A Seara de Montes, Cartelle, Ourense",Not classified
+356,Muiñeira de Vilouchada,e minor,6/8,0.3214285714285714,C2,42.99161155,-8.52822641429236,5,0.0233644859813084,"Vilouchada, Trazo, A Coruña",A Coruña
+357,Muiñeira de Señorans,C major,6/8,0.1307692307692307,C2,42.6829865,-8.4393524,6,0.0821917808219178,"Cereixo, A Estrada, Pontevedra",Rias Baixas
+359,Muiñeira do Carballal,C major,6/8,0.1136363636363636,C1,42.5907647,-7.2606608,2,0.018018018018018,"Carballal, Folgoso do Courel, Lugo",Courel
+360,O Gaiteiro de Torbolosiño,C major,6/8,0.1940298507462686,C2,42.5702336,-7.196084,18,0.1224489795918367,"Santa Eufemia, Folgoso do Courel, Lugo",Courel
+362,Muiñeira de Parada de Achas,c minor,6/8,0.1506849315068493,,42.173403,-8.30473225,0,0.0,"Parada de Achas, A Cañiza, Pontevedra",Rias Baixas
+381,Muiñeira,F major,6/8,0.1234567901234567,C1,42.3887558,-8.5022999,8,0.0952380952380952,"Ponte Caldelas, Pontevedra",Rias Baixas
+386,Muiñeira de Chancelas,c minor,4/4,0.1111111111111111,C2,42.4234102,-8.7193445,0,0.0,"Chancelas, Combarro, Pontevedra",Rias Baixas
+387,Ruada de Allariz,C major,6/8,0.2207792207792207,C1,42.1893161,-7.8019484,9,0.0967741935483871,"Allariz, Ourense",Portuguese Border
+391,Muiñeira de Redonda,C major,6/8,0.2,C1,42.9223684,-9.2034968,0,0.0,"Redonda, Corcubión, A Coruña",Costa do Morte
+392,Muiñeira de Abellá,C major,6/8,0.1123595505617977,C2,43.0824107,-8.306377955844088,5,0.0531914893617021,"Abellá, Frades, A Coruña",A Coruña
+393,Muiñeira de Anceis,C major,6/8,0.2937062937062937,C2,43.26814205,-8.358989154904453,4,0.0222222222222222,"Anceis, Cambre, A Coruña",A Coruña
+397,As Festas de Marnela,C major,6/8,0.6521739130434783,C2,43.6286005,-8.1232505,8,0.0792079207920792,"Marnela, Valdoviño, A Coruña",Not classified
+399,Muiñeira de Manuel Dopazo,C major,6/8,0.0895522388059701,C2,43.1248311,-7.0676605,11,0.0594594594594594,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+400,Muiñeira,C major,6/8,0.1008403361344537,C2,43.1248311,-7.0676605,12,0.0588235294117647,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+401,Muiñeira de Riomao,C major,6/8,0.204225352112676,C2,42.3436423,-7.0070384,16,0.1095890410958904,"Riomao, A Veiga, Ourense",Not classified
+402,Muiñeira de Riomao,C major,6/8,0.2083333333333333,C2,42.3436423,-7.0070384,16,0.1221374045801526,"Riomao, A Veiga, Ourense",Not classified
+405,Muiñeira de Cangas,C major,6/8,0.0588235294117647,C1,42.2647235,-8.7796487,18,0.1052631578947368,"Cangas, Pontevedra",Rias Baixas
+409,Muiñeira do Picato,C major,6/8,0.2222222222222222,C1,43.1176607,-7.5395256,19,0.1091954022988505,"O Picato, Outeiro de Rei, Lugo",Not classified
+413,Muiñeira de Folgoso,a minor,6/8,0.5135135135135135,C1,42.5882486,-7.1925449,14,0.1296296296296296,"Folgoso do Courel, Lugo",Courel
+414,Muiñeira de Ancadeira,C major,6/8,0.2376237623762376,C2,43.1248311,-7.0676605,7,0.0736842105263157,"A Fonsagrada, Lugo",A Fonsagrada-Asturias
+416,Muiñeira do Hío,C major,6/8,0.1785714285714285,C1,42.2728376,-8.841498,8,0.0714285714285714,"Hío, Cangas, Pontevedra",Rias Baixas
+418,Muiñeira de Tella,C major,6/8,0.0808080808080808,C1,43.3412217,-7.0795128,7,0.0542635658914728,"Os Teixois, Taramundi, Asturies",A Fonsagrada-Asturias
+422,Muiñeira de Pontesampaio,c minor,6/8,0.1806451612903225,C1,42.34575475,-8.604383606147323,12,0.1212121212121212,"Pontesampaio, Pontevedra",Rias Baixas
+423,Muiñeira do Saviñao,C major,6/8,0.1014492753623188,C1,42.644947650000006,-7.6394859466633855,10,0.0840336134453781,"Estromil, O Saviñao, Lugo",Not classified
+424,Muiñeira das Nogais,C major,6/8,0.4117647058823529,C2,42.8089027,-7.1089861,0,0.0,"As Nogais, Lugo",Not classified
+427,Carballesa de Melide,C major,2/4,0.282051282051282,C2,42.9145741,-8.0136139,0,0.0,"Melide, A Coruña",Not classified
+428,Redonda de Bande,C major,6/8,0.6086956521739131,C1,42.0316148,-7.9749081,11,0.0916666666666666,"Bande, Ourense",Portuguese Border
+429,Redonda de Bande,C major,6/8,0.6222222222222222,C2,42.0316148,-7.9749081,0,0.0,"Bande, Ourense",Portuguese Border
+430,Ribeirana de Poio,C major,2/4,0.0384615384615384,C1,42.4332306,-8.6590994,2,0.024390243902439,"Poio, Pontevedra",Rias Baixas
+431,Ribeirana de Poio,C major,2/4,0.050632911392405,C1,42.4332306,-8.6590994,2,0.0246913580246913,"Poio, Pontevedra",Rias Baixas
+432,Muiñeira de Casamiro,C major,6/8,0.1118881118881118,C1,43.1452907,-7.791647688176285,15,0.1685393258426966,"Sambreixo, Parga, Lugo",Not classified
+433,Muiñeira de Casamiro,C major,6/8,0.0714285714285714,C1,43.1452907,-7.791647688176285,16,0.1720430107526881,"Sambreixo, Parga, Lugo",Not classified
+434,Carvalhesa,C major,2/4,0.5897435897435898,C2,41.9508583,-6.9744425,24,0.1509433962264151,"Moimenta de Vinhais, Bragança, Portugal",Portuguese Border
+435,Ribeirana de Ventosela,G major,6/8,0.1986301369863013,C1,42.2880044,-8.1429521,26,0.1547619047619047,"Ventosela do Gateiro, Ribadavia, Ourense",Not classified
+438,Carballesa do Carballiño,C major,2/4,0.3181818181818182,C2,42.4300046,-8.0780481,4,0.0291970802919708,"O Carballiño, Ourense",Not classified
+441,Ribeirana de Villalba,C major,6/8,0.4909090909090909,C2,43.6853833,-7.5128939,0,0.0,"Villalba, Lugo",Not classified
+442,Ribeirana de Pontevedra,C major,6/8,0.0617283950617283,C2,42.4318876,-8.6431592,0,0.0,"Pontevedra, Pontevedra",Rias Baixas
+443,Ribeirana de Pontevedra,C major,6/8,0.0816326530612244,C1,42.4318876,-8.6431592,7,0.0744680851063829,"Pontevedra, Pontevedra",Rias Baixas
+444,Ribeirana de Pontevedra,C major,6/8,0.0625,C2,42.4318876,-8.6431592,7,0.0813953488372093,"Pontevedra, Pontevedra",Rias Baixas
+445,Ribeirana de Redondela,C major,6/8,0.2419354838709677,C1,42.284221,-8.6085992,8,0.1509433962264151,"Redondela, Pontevedra",Rias Baixas
+446,Ribeirana de Pontevedra,C major,6/8,0.3888888888888889,C2,42.4318876,-8.6431592,2,0.0235294117647058,"Pontevedra, Pontevedra",Rias Baixas
+449,Carballesa do Incio,C major,2/4,0.1269841269841269,C1,42.66639975,-7.363224468403597,2,0.0256410256410256,"O Incio, Lugo",Courel
+450,Muiñeira de Vilarmide,C major,6/8,0.0920245398773006,C2,43.2789245,-7.1913498,3,0.0454545454545454,"Vilarmide, A Pontenova, Lugo",A Fonsagrada-Asturias
+452,Danza Anterga de Lugo,C major,2/4,0.1818181818181818,C1,43.0118437,-7.5565749,7,0.0985915492957746,"Lugo, Lugo",Not classified
+453,Carballesa do Incio,C major,2/4,0.1428571428571428,C1,42.66639975,-7.363224468403597,10,0.0561797752808988,"O Incio, Lugo",Courel
